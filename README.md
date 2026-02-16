@@ -1,4 +1,4 @@
-# COMPLETE GUIDE - Real Madrid Fatigue Tracking Project
+# Real Madrid Fatigue Analysis & Error Tracking
 
 ## Table of Contents
 1. [What This Project Does](#what-this-project-does)
@@ -66,7 +66,7 @@ Contains all the output:
 - `merged_analysis_1021404.parquet` - Combined dataset
 - `results.html` - Beautiful web page showing all results
 
-#### 4. **`COMPLETE_GUIDE.md`** THIS FILE
+#### 4. **`README.md`** THIS FILE
 - The guide you're reading now
 
 ---

@@ -1,0 +1,65 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1048195
+Match: Celta Vigo 0-1 Real Madrid
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1102
+Total error events detected: 50
+Fatigue-Error correlation: 0.631
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. J. Bellingham (AM): 10679m, Max Fatigue: 1.51
+2. Dani Carvajal (RB): 10128m, Max Fatigue: 1.35
+3. Rodrygo (CF): 9884m, Max Fatigue: 1.38
+4. F. Valverde (RM): 9741m, Max Fatigue: 1.35
+5. D. Alaba (LCB): 8794m, Max Fatigue: 1.20
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • J. Bellingham at minute 0: Fatigue 1.51
+  • J. Bellingham at minute 1: Fatigue 1.45
+  • A. Tchouaméni at minute 0: Fatigue 1.42
+  • Rodrygo at minute 0: Fatigue 1.38
+  • F. Valverde at minute 0: Fatigue 1.35
+  • E. Camavinga at minute 0: Fatigue 1.35
+  • Dani Carvajal at minute 1: Fatigue 1.35
+  • Dani Carvajal at minute 0: Fatigue 1.33
+  • A. Tchouaméni at minute 1: Fatigue 1.32
+  • A. Rüdiger at minute 0: Fatigue 1.31
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • F. Valverde: 10 errors
+  • E. Camavinga: 8 errors
+  • Fran García: 7 errors
+  • J. Bellingham: 7 errors
+  • A. Tchouaméni: 6 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.57
+  • Maximum fatigue reached: 1.51 (J. Bellingham)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - A. Rüdiger (1 high-fatigue minutes)
+    - A. Tchouaméni (2 high-fatigue minutes)
+    - Dani Carvajal (2 high-fatigue minutes)
+    - E. Camavinga (1 high-fatigue minutes)
+    - F. Valverde (2 high-fatigue minutes)
+    - J. Bellingham (2 high-fatigue minutes)
+    - Rodrygo (1 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

@@ -1,0 +1,63 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 2004424
+Match: Real Madrid 2-0 Girona
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1049
+Total error events detected: 50
+Fatigue-Error correlation: 0.600
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. Lucas Vázquez (RB): 10647m, Max Fatigue: 1.21
+2. A. Tchouaméni (RM): 10645m, Max Fatigue: 1.38
+3. Rodrygo (LW): 10403m, Max Fatigue: 1.30
+4. F. Mendy (LB): 9572m, Max Fatigue: 1.28
+5. L. Modrić (LM): 9085m, Max Fatigue: 1.44
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • K. Mbappé at minute 0: Fatigue 1.50
+  • L. Modrić at minute 1: Fatigue 1.44
+  • L. Modrić at minute 0: Fatigue 1.44
+  • Vinícius Júnior at minute 4: Fatigue 1.43
+  • Vinícius Júnior at minute 0: Fatigue 1.42
+  • Vinícius Júnior at minute 3: Fatigue 1.41
+  • A. Tchouaméni at minute 0: Fatigue 1.38
+  • A. Tchouaméni at minute 1: Fatigue 1.37
+  • Vinícius Júnior at minute 2: Fatigue 1.37
+  • A. Tchouaméni at minute 3: Fatigue 1.37
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • Brahim Diaz: 10 errors
+  • Rodrygo: 9 errors
+  • L. Modrić: 8 errors
+  • A. Tchouaméni: 7 errors
+  • Lucas Vázquez: 7 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.66
+  • Maximum fatigue reached: 1.50 (K. Mbappé)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - A. Tchouaméni (3 high-fatigue minutes)
+    - Brahim Diaz (4 high-fatigue minutes)
+    - K. Mbappé (2 high-fatigue minutes)
+    - L. Modrić (3 high-fatigue minutes)
+    - Vinícius Júnior (6 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

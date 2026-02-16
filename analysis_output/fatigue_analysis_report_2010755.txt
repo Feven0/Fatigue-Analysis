@@ -1,0 +1,58 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 2010755
+Match: Arsenal 3-0 Real Madrid
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1045
+Total error events detected: 50
+Fatigue-Error correlation: 0.637
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. E. Camavinga (LM): 9770m, Max Fatigue: 1.17
+2. J. Bellingham (LW): 9493m, Max Fatigue: 1.51
+3. Vinícius Júnior (CF): 9246m, Max Fatigue: 1.56
+4. F. Valverde (RB): 8815m, Max Fatigue: 0.99
+5. Rodrygo (RW): 8388m, Max Fatigue: 1.18
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • Vinícius Júnior at minute 1: Fatigue 1.56
+  • J. Bellingham at minute 0: Fatigue 1.51
+  • Vinícius Júnior at minute 0: Fatigue 1.49
+  • J. Bellingham at minute 1: Fatigue 1.37
+  • Vinícius Júnior at minute 2: Fatigue 1.30
+  • Vinícius Júnior at minute 3: Fatigue 1.29
+  • Vinícius Júnior at minute 4: Fatigue 1.24
+  • D. Alaba at minute 0: Fatigue 1.20
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • E. Camavinga: 10 errors
+  • Vinícius Júnior: 9 errors
+  • D. Alaba: 9 errors
+  • L. Modrić: 8 errors
+  • Rodrygo: 6 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.58
+  • Maximum fatigue reached: 1.56 (Vinícius Júnior)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - J. Bellingham (2 high-fatigue minutes)
+    - Vinícius Júnior (2 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

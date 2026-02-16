@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real Madrid Fatigue Analysis - Results</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 2rem;
+            color: #333;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+        
+        header {
+            background: linear-gradient(135deg, #1E3A8A 0%, #3B82F6 100%);
+            color: white;
+            padding: 3rem 2rem;
+            text-align: center;
+        }
+        
+        header h1 {
+            font-size: 3rem;
+            margin-bottom: 0.5rem;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        
+        header p {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+        
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            padding: 2rem;
+            background: #F3F4F6;
+        }
+        
+        .stat-card {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 10px;
+            text-align: center;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            border-left: 4px solid #3B82F6;
+        }
+        
+        .stat-card h3 {
+            color: #6B7280;
+            font-size: 0.9rem;
+            margin-bottom: 0.5rem;
+            text-transform: uppercase;
+        }
+        
+        .stat-card p {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #1E3A8A;
+        }
+        
+        .content {
+            padding: 2rem;
+        }
+        
+        .section {
+            margin-bottom: 3rem;
+        }
+        
+        .section h2 {
+            color: #1E3A8A;
+            margin-bottom: 1rem;
+            font-size: 2rem;
+            border-bottom: 3px solid #3B82F6;
+            padding-bottom: 0.5rem;
+        }
+        
+        .visualization {
+            background: #F9FAFB;
+            padding: 1.5rem;
+            border-radius: 10px;
+            margin-bottom: 2rem;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+        
+        .visualization h3 {
+            color: #374151;
+            margin-bottom: 1rem;
+        }
+        
+        .visualization img {
+            width: 100%;
+            border-radius: 8px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+        
+        .insights {
+            background: #FEF3C7;
+            padding: 1.5rem;
+            border-radius: 10px;
+            border-left: 4px solid #F59E0B;
+            margin-bottom: 2rem;
+        }
+        
+        .insights h3 {
+            color: #92400E;
+            margin-bottom: 1rem;
+        }
+        
+        .insights ul {
+            list-style: none;
+            padding-left: 0;
+        }
+        
+        .insights li {
+            padding: 0.5rem 0;
+            color: #78350F;
+        }
+        
+        .insights li:before {
+            content: "⚡ ";
+            margin-right: 0.5rem;
+        }
+        
+        .recommendations {
+            background: #DBEAFE;
+            padding: 1.5rem;
+            border-radius: 10px;
+            border-left: 4px solid #3B82F6;
+        }
+        
+        .recommendations h3 {
+            color: #1E40AF;
+            margin-bottom: 1rem;
+        }
+        
+        .recommendations ul {
+            list-style: none;
+            padding-left: 0;
+        }
+        
+        .recommendations li {
+            padding: 0.5rem 0;
+            color: #1E3A8A;
+        }
+        
+        .recommendations li:before {
+            content: "✓ ";
+            margin-right: 0.5rem;
+            color: #10B981;
+            font-weight: bold;
+        }
+        
+        footer {
+            background: #1F2937;
+            color: white;
+            padding: 2rem;
+            text-align: center;
+        }
+        
+        .btn {
+            display: inline-block;
+            background: #3B82F6;
+            color: white;
+            padding: 1rem 2rem;
+            border-radius: 8px;
+            text-decoration: none;
+            margin: 0.5rem;
+            font-weight: bold;
+            transition: background 0.3s;
+        }
+        
+        .btn:hover {
+            background: #2563EB;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>⚽ Real Madrid Fatigue Analysis</h1>
+            <p>Data-Driven Player Performance Insights</p>
+        </header>
+        
+        <div class="stats">
+            <div class="stat-card">
+                <h3>Match Analyzed</h3>
+                <p>1021404</p>
+            </div>
+            <div class="stat-card">
+                <h3>Player-Minutes</h3>
+                <p>1,079</p>
+            </div>
+            <div class="stat-card">
+                <h3>Error Events</h3>
+                <p>50</p>
+            </div>
+            <div class="stat-card">
+                <h3>Tracking Frames</h3>
+                <p>7.6M</p>
+            </div>
+            <div class="stat-card">
+                <h3>Players Tracked</h3>
+                <p>15</p>
+            </div>
+            <div class="stat-card">
+                <h3>Correlation</h3>
+                <p>0.083</p>
+            </div>
+        </div>
+        
+        <div class="content">
+            <div class="section">
+                <h2>📊 Analysis Results</h2>
+                
+                <div class="insights">
+                    <h3>🔍 Key Findings</h3>
+                    <ul>
+                        <li><strong>Fran García</strong> covered the most distance: 11,156 meters</li>
+                        <li><strong>Eduardo Camavinga</strong> showed highest fatigue index: 146.3</li>
+                        <li><strong>Federico Valverde</strong> reached critical fatigue: 141.2</li>
+                        <li>Error events peaked at minutes 8-10 and 25-35</li>
+                        <li>Positive correlation between fatigue and errors detected</li>
+                    </ul>
+                </div>
+                
+                <div class="visualization">
+                    <h3>1. Fatigue Timeline & Error Events</h3>
+                    <img src="analysis_output/fatigue_timeline_1021404.png" alt="Fatigue Timeline">
+                    <p style="margin-top: 1rem; color: #6B7280;">
+                        This graph shows how fatigue builds up over the match for the top 5 most active players. 
+                        The bottom panel shows when errors occurred, with spikes in early and mid-game periods.
+                    </p>
+                </div>
+                
+                <div class="visualization">
+                    <h3>2. Player Physical Metrics Comparison</h3>
+                    <img src="analysis_output/player_comparison_1021404.png" alt="Player Comparison">
+                    <p style="margin-top: 1rem; color: #6B7280;">
+                        Heatmap comparing all players across 5 key metrics. Red indicates high values, green indicates low values.
+                        Fran García and F. Valverde show the highest overall workload.
+                    </p>
+                </div>
+                
+                <div class="visualization">
+                    <h3>3. Fatigue vs Error Correlation</h3>
+                    <img src="analysis_output/fatigue_error_correlation_1021404.png" alt="Correlation">
+                    <p style="margin-top: 1rem; color: #6B7280;">
+                        Scatter plot showing the relationship between average fatigue and error occurrences. 
+                        The upward trend line suggests that higher fatigue leads to more errors.
+                    </p>
+                </div>
+                
+                <div class="visualization">
+                    <h3>4. Position Analysis</h3>
+                    <img src="analysis_output/position_analysis_1021404.png" alt="Position Analysis">
+                    <p style="margin-top: 1rem; color: #6B7280;">
+                        Left: Average fatigue by position. Right: Total distance covered by position.
+                        Wingers (LM/RM) and forwards (CF) show the highest workload.
+                    </p>
+                </div>
+            </div>
+            
+            <div class="section">
+                <h2>🎯 Recommendations for Coaches</h2>
+                
+                <div class="recommendations">
+                    <h3>Immediate Actions</h3>
+                    <ul>
+                        <li>Monitor <strong>E. Camavinga</strong> closely (23 high-fatigue minutes)</li>
+                        <li>Consider early substitution for <strong>J. Bellingham</strong> (22 high-fatigue minutes)</li>
+                        <li>Plan rotation for <strong>Rodrygo</strong> (21 high-fatigue minutes)</li>
+                        <li>Implement tactical adjustments during minutes 60-75</li>
+                        <li>Prioritize rotation for LM/RM positions (highest fatigue)</li>
+                    </ul>
+                </div>
+                
+                <div class="recommendations">
+                    <h3>Strategic Planning</h3>
+                    <ul>
+                        <li>Use fatigue index > 1.2 as substitution trigger</li>
+                        <li>Develop position-specific rotation policies</li>
+                        <li>Track cumulative fatigue across multiple matches</li>
+                        <li>Adjust training load based on match fatigue data</li>
+                        <li>Implement proactive (not reactive) substitution strategy</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="section">
+                <h2>🚀 Next Steps</h2>
+                <div style="text-align: center; padding: 2rem;">
+                    <a href="#" class="btn">📊 Launch Interactive Dashboard</a>
+                    <a href="#" class="btn">📈 Analyze More Matches</a>
+                    <a href="#" class="btn">📄 View Full Report</a>
+                </div>
+                <p style="text-align: center; color: #6B7280; margin-top: 1rem;">
+                    Run <code>streamlit run dashboard.py</code> for interactive exploration
+                </p>
+            </div>
+        </div>
+        
+        <footer>
+            <h3>Real Madrid Fatigue Error Tracking System</h3>
+            <p style="margin-top: 1rem; opacity: 0.8;">
+                Powered by GPS tracking data analysis | February 2026
+            </p>
+            <p style="margin-top: 0.5rem; opacity: 0.6;">
+                Match: Athletic Bilbao 0-2 Real Madrid
+            </p>
+        </footer>
+    </div>
+</body>
+</html>

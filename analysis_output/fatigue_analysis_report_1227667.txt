@@ -1,0 +1,68 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1227667
+Match: Real Madrid 0-0 Rayo Vallecano
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1124
+Total error events detected: 50
+Fatigue-Error correlation: 0.629
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. Dani Carvajal (RB): 10687m, Max Fatigue: 1.60
+2. F. Valverde (RW): 10017m, Max Fatigue: 1.45
+3. J. Bellingham (LW): 9973m, Max Fatigue: 1.42
+4. Joselu (CF): 9817m, Max Fatigue: 1.50
+5. D. Alaba (LCB): 9499m, Max Fatigue: 1.47
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • L. Modrić at minute 0: Fatigue 1.77
+  • Fran García at minute 0: Fatigue 1.64
+  • Dani Carvajal at minute 0: Fatigue 1.60
+  • E. Camavinga at minute 0: Fatigue 1.58
+  • Joselu at minute 0: Fatigue 1.50
+  • Dani Carvajal at minute 1: Fatigue 1.49
+  • D. Alaba at minute 0: Fatigue 1.47
+  • Fran García at minute 1: Fatigue 1.47
+  • F. Valverde at minute 0: Fatigue 1.45
+  • L. Modrić at minute 1: Fatigue 1.44
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • Joselu: 11 errors
+  • J. Bellingham: 7 errors
+  • E. Camavinga: 7 errors
+  • F. Valverde: 6 errors
+  • Dani Carvajal: 5 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.61
+  • Maximum fatigue reached: 1.77 (L. Modrić)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - A. Rüdiger (1 high-fatigue minutes)
+    - D. Alaba (1 high-fatigue minutes)
+    - Dani Carvajal (2 high-fatigue minutes)
+    - E. Camavinga (2 high-fatigue minutes)
+    - F. Valverde (2 high-fatigue minutes)
+    - Fran García (2 high-fatigue minutes)
+    - J. Bellingham (2 high-fatigue minutes)
+    - Joselu (2 high-fatigue minutes)
+    - L. Modrić (2 high-fatigue minutes)
+    - Vinícius Júnior (2 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

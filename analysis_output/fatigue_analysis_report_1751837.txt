@@ -1,0 +1,57 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1751837
+Match: Atlético Madrid 1-1 Real Madrid
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1090
+Total error events detected: 50
+Fatigue-Error correlation: 0.672
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. A. Tchouaméni (DM): 10795m, Max Fatigue: 1.15
+2. J. Bellingham (LM): 10199m, Max Fatigue: 1.28
+3. Dani Carvajal (RB): 10164m, Max Fatigue: 1.14
+4. Rodrygo (CF): 9846m, Max Fatigue: 1.29
+5. F. Mendy (LB): 9502m, Max Fatigue: 1.05
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • Rodrygo at minute 0: Fatigue 1.29
+  • J. Bellingham at minute 7: Fatigue 1.28
+  • J. Bellingham at minute 6: Fatigue 1.27
+  • Rodrygo at minute 11: Fatigue 1.27
+  • Rodrygo at minute 3: Fatigue 1.26
+  • Rodrygo at minute 4: Fatigue 1.26
+  • Rodrygo at minute 10: Fatigue 1.25
+  • Rodrygo at minute 13: Fatigue 1.25
+  • Rodrygo at minute 14: Fatigue 1.25
+  • J. Bellingham at minute 8: Fatigue 1.25
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • J. Bellingham: 8 errors
+  • F. Valverde: 8 errors
+  • A. Tchouaméni: 7 errors
+  • L. Modrić: 7 errors
+  • Rodrygo: 6 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.62
+  • Maximum fatigue reached: 1.29 (Rodrygo)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

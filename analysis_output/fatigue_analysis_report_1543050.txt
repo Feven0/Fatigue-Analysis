@@ -1,0 +1,67 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1543050
+Match: Villarreal CF 4-4 Real Madrid
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1134
+Total error events detected: 50
+Fatigue-Error correlation: 0.664
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. Dani Ceballos (LDM): 11064m, Max Fatigue: 1.63
+2. Lucas Vázquez (RB): 10843m, Max Fatigue: 1.41
+3. A. Güler (RW): 10820m, Max Fatigue: 1.53
+4. Fran García (LB): 10661m, Max Fatigue: 1.43
+5. Joselu (CF): 9443m, Max Fatigue: 1.63
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • L. Modrić at minute 0: Fatigue 1.81
+  • Dani Ceballos at minute 2: Fatigue 1.63
+  • Joselu at minute 0: Fatigue 1.63
+  • Dani Ceballos at minute 0: Fatigue 1.63
+  • Dani Ceballos at minute 3: Fatigue 1.58
+  • Dani Ceballos at minute 4: Fatigue 1.58
+  • F. Valverde at minute 0: Fatigue 1.56
+  • A. Güler at minute 0: Fatigue 1.53
+  • L. Modrić at minute 1: Fatigue 1.53
+  • Dani Ceballos at minute 5: Fatigue 1.49
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • Lucas Vázquez: 13 errors
+  • A. Güler: 8 errors
+  • Dani Ceballos: 7 errors
+  • Fran García: 6 errors
+  • F. Valverde: 4 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.66
+  • Maximum fatigue reached: 1.81 (L. Modrić)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - A. Güler (17 high-fatigue minutes)
+    - A. Rüdiger (1 high-fatigue minutes)
+    - Dani Ceballos (23 high-fatigue minutes)
+    - F. Valverde (11 high-fatigue minutes)
+    - Fran García (13 high-fatigue minutes)
+    - Joselu (3 high-fatigue minutes)
+    - L. Modrić (6 high-fatigue minutes)
+    - Lucas Vázquez (8 high-fatigue minutes)
+    - Éder Militão (1 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

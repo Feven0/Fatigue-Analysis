@@ -1,0 +1,59 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1374493
+Match: UD Las Palmas 1-2 Real Madrid
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1126
+Total error events detected: 50
+Fatigue-Error correlation: 0.667
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. T. Kroos (LM): 10609m, Max Fatigue: 1.21
+2. Fran García (LB): 10211m, Max Fatigue: 1.22
+3. Dani Carvajal (RB): 9544m, Max Fatigue: 1.03
+4. Nacho Fernández (LCB): 8697m, Max Fatigue: 1.04
+5. E. Camavinga (DM): 8600m, Max Fatigue: 1.22
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • Rodrygo at minute 0: Fatigue 1.40
+  • Rodrygo at minute 1: Fatigue 1.38
+  • Rodrygo at minute 3: Fatigue 1.30
+  • Dani Ceballos at minute 3: Fatigue 1.28
+  • Dani Ceballos at minute 8: Fatigue 1.24
+  • Rodrygo at minute 2: Fatigue 1.23
+  • Dani Ceballos at minute 1: Fatigue 1.23
+  • Fran García at minute 1: Fatigue 1.22
+  • E. Camavinga at minute 3: Fatigue 1.22
+  • T. Kroos at minute 2: Fatigue 1.21
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • T. Kroos: 10 errors
+  • Dani Ceballos: 9 errors
+  • Fran García: 7 errors
+  • E. Camavinga: 7 errors
+  • Brahim Diaz: 5 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.58
+  • Maximum fatigue reached: 1.40 (Rodrygo)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - Rodrygo (2 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

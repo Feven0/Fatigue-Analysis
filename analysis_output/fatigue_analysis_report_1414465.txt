@@ -1,0 +1,65 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1414465
+Match: Real Madrid 1-0 Sevilla FC
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1112
+Total error events detected: 50
+Fatigue-Error correlation: 0.599
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. Lucas Vázquez (RB): 11037m, Max Fatigue: 1.39
+2. T. Kroos (LM): 10922m, Max Fatigue: 1.45
+3. F. Mendy (LB): 10206m, Max Fatigue: 1.45
+4. A. Tchouaméni (DM): 10171m, Max Fatigue: 1.24
+5. Rodrygo (CF): 9962m, Max Fatigue: 1.55
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • Vinícius Júnior at minute 0: Fatigue 1.62
+  • Rodrygo at minute 0: Fatigue 1.55
+  • F. Valverde at minute 0: Fatigue 1.52
+  • T. Kroos at minute 5: Fatigue 1.45
+  • F. Mendy at minute 0: Fatigue 1.45
+  • T. Kroos at minute 0: Fatigue 1.43
+  • Rodrygo at minute 5: Fatigue 1.41
+  • T. Kroos at minute 2: Fatigue 1.40
+  • Rodrygo at minute 2: Fatigue 1.39
+  • T. Kroos at minute 8: Fatigue 1.39
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • T. Kroos: 10 errors
+  • Rodrygo: 9 errors
+  • Lucas Vázquez: 6 errors
+  • Brahim Diaz: 6 errors
+  • F. Mendy: 5 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.62
+  • Maximum fatigue reached: 1.62 (Vinícius Júnior)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - Brahim Diaz (1 high-fatigue minutes)
+    - F. Mendy (1 high-fatigue minutes)
+    - F. Valverde (1 high-fatigue minutes)
+    - Lucas Vázquez (6 high-fatigue minutes)
+    - Rodrygo (9 high-fatigue minutes)
+    - T. Kroos (9 high-fatigue minutes)
+    - Vinícius Júnior (1 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

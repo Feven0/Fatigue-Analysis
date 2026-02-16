@@ -1,0 +1,66 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1114154
+Match: Atlético Madrid 3-1 Real Madrid
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1101
+Total error events detected: 50
+Fatigue-Error correlation: 0.582
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. J. Bellingham (CF): 10314m, Max Fatigue: 1.54
+2. Rodrygo (CF): 10020m, Max Fatigue: 1.53
+3. F. Valverde (RM): 9670m, Max Fatigue: 1.41
+4. D. Alaba (LCB): 9382m, Max Fatigue: 1.40
+5. A. Rüdiger (RCB): 8817m, Max Fatigue: 1.20
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • L. Modrić at minute 0: Fatigue 1.81
+  • E. Camavinga at minute 0: Fatigue 1.59
+  • J. Bellingham at minute 0: Fatigue 1.54
+  • Rodrygo at minute 0: Fatigue 1.53
+  • L. Modrić at minute 2: Fatigue 1.50
+  • J. Bellingham at minute 2: Fatigue 1.48
+  • T. Kroos at minute 0: Fatigue 1.47
+  • Rodrygo at minute 2: Fatigue 1.44
+  • F. Valverde at minute 2: Fatigue 1.41
+  • D. Alaba at minute 0: Fatigue 1.40
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • Fran García: 10 errors
+  • Lucas Vázquez: 7 errors
+  • L. Modrić: 6 errors
+  • E. Camavinga: 6 errors
+  • J. Bellingham: 6 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.62
+  • Maximum fatigue reached: 1.81 (L. Modrić)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - D. Alaba (1 high-fatigue minutes)
+    - E. Camavinga (1 high-fatigue minutes)
+    - F. Valverde (2 high-fatigue minutes)
+    - Fran García (1 high-fatigue minutes)
+    - J. Bellingham (2 high-fatigue minutes)
+    - L. Modrić (3 high-fatigue minutes)
+    - Rodrygo (2 high-fatigue minutes)
+    - T. Kroos (2 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

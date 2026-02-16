@@ -1,0 +1,66 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1281971
+Match: Real Madrid 4-2 Napoli
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1124
+Total error events detected: 50
+Fatigue-Error correlation: 0.654
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. T. Kroos (LM): 10489m, Max Fatigue: 1.50
+2. Dani Carvajal (RB): 10233m, Max Fatigue: 1.54
+3. J. Bellingham (LW): 10230m, Max Fatigue: 1.70
+4. F. Valverde (RM): 9962m, Max Fatigue: 1.58
+5. Rodrygo (CF): 9106m, Max Fatigue: 1.63
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • Dani Ceballos at minute 0: Fatigue 1.74
+  • J. Bellingham at minute 0: Fatigue 1.70
+  • Dani Ceballos at minute 1: Fatigue 1.67
+  • Brahim Diaz at minute 0: Fatigue 1.66
+  • Rodrygo at minute 0: Fatigue 1.63
+  • Dani Ceballos at minute 3: Fatigue 1.61
+  • F. Valverde at minute 0: Fatigue 1.58
+  • Dani Ceballos at minute 2: Fatigue 1.55
+  • F. Mendy at minute 1: Fatigue 1.55
+  • Dani Carvajal at minute 0: Fatigue 1.54
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • Dani Ceballos: 11 errors
+  • Brahim Diaz: 9 errors
+  • Rodrygo: 8 errors
+  • T. Kroos: 7 errors
+  • Dani Carvajal: 6 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.66
+  • Maximum fatigue reached: 1.74 (Dani Ceballos)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - Brahim Diaz (9 high-fatigue minutes)
+    - Dani Carvajal (3 high-fatigue minutes)
+    - Dani Ceballos (9 high-fatigue minutes)
+    - F. Mendy (9 high-fatigue minutes)
+    - F. Valverde (7 high-fatigue minutes)
+    - J. Bellingham (9 high-fatigue minutes)
+    - Rodrygo (5 high-fatigue minutes)
+    - T. Kroos (9 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

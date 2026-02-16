@@ -1,0 +1,62 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1730478
+Match: Real Madrid 4-1 RCD Espanyol
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1047
+Total error events detected: 50
+Fatigue-Error correlation: 0.579
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. Fran García (LB): 10176m, Max Fatigue: 1.29
+2. L. Modrić (RM): 9711m, Max Fatigue: 1.37
+3. F. Valverde (DM): 9563m, Max Fatigue: 1.39
+4. J. Bellingham (LM): 8851m, Max Fatigue: 1.59
+5. Éder Militão (LCB): 8727m, Max Fatigue: 1.07
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • J. Bellingham at minute 0: Fatigue 1.59
+  • J. Bellingham at minute 1: Fatigue 1.57
+  • J. Bellingham at minute 2: Fatigue 1.57
+  • J. Bellingham at minute 3: Fatigue 1.47
+  • Dani Carvajal at minute 1: Fatigue 1.46
+  • J. Bellingham at minute 4: Fatigue 1.45
+  • F. Valverde at minute 2: Fatigue 1.39
+  • F. Valverde at minute 1: Fatigue 1.38
+  • L. Modrić at minute 1: Fatigue 1.37
+  • J. Bellingham at minute 5: Fatigue 1.35
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • Dani Carvajal: 9 errors
+  • J. Bellingham: 9 errors
+  • L. Modrić: 8 errors
+  • F. Valverde: 6 errors
+  • Fran García: 6 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.64
+  • Maximum fatigue reached: 1.59 (J. Bellingham)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - Dani Carvajal (2 high-fatigue minutes)
+    - F. Valverde (2 high-fatigue minutes)
+    - J. Bellingham (6 high-fatigue minutes)
+    - L. Modrić (2 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

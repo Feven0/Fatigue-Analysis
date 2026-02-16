@@ -1,0 +1,68 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1512139
+Match: Bayern Munchen 2-2 Real Madrid
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1002
+Total error events detected: 50
+Fatigue-Error correlation: 0.669
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. A. Tchouaméni (RM): 9514m, Max Fatigue: 1.69
+2. Lucas Vázquez (RB): 9445m, Max Fatigue: 1.59
+3. F. Valverde (RW): 9194m, Max Fatigue: 1.64
+4. Vinícius Júnior (CF): 9041m, Max Fatigue: 1.77
+5. Rodrygo (LW): 8719m, Max Fatigue: 1.68
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • Vinícius Júnior at minute 0: Fatigue 1.77
+  • F. Mendy at minute 0: Fatigue 1.76
+  • A. Tchouaméni at minute 0: Fatigue 1.69
+  • Rodrygo at minute 0: Fatigue 1.68
+  • F. Valverde at minute 0: Fatigue 1.64
+  • T. Kroos at minute 0: Fatigue 1.63
+  • Lucas Vázquez at minute 0: Fatigue 1.59
+  • J. Bellingham at minute 0: Fatigue 1.52
+  • T. Kroos at minute 1: Fatigue 1.52
+  • Nacho Fernández at minute 0: Fatigue 1.42
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • F. Valverde: 9 errors
+  • T. Kroos: 9 errors
+  • A. Tchouaméni: 9 errors
+  • Rodrygo: 7 errors
+  • J. Bellingham: 6 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.64
+  • Maximum fatigue reached: 1.77 (Vinícius Júnior)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - A. Rüdiger (1 high-fatigue minutes)
+    - A. Tchouaméni (1 high-fatigue minutes)
+    - F. Mendy (1 high-fatigue minutes)
+    - F. Valverde (2 high-fatigue minutes)
+    - J. Bellingham (3 high-fatigue minutes)
+    - Lucas Vázquez (1 high-fatigue minutes)
+    - Nacho Fernández (1 high-fatigue minutes)
+    - Rodrygo (2 high-fatigue minutes)
+    - T. Kroos (4 high-fatigue minutes)
+    - Vinícius Júnior (2 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

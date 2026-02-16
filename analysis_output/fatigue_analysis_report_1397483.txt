@@ -1,0 +1,59 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1397483
+Match: Leipzig 0-1 Real Madrid
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1058
+Total error events detected: 50
+Fatigue-Error correlation: 0.653
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. T. Kroos (DM): 10917m, Max Fatigue: 1.29
+2. E. Camavinga (LM): 10673m, Max Fatigue: 1.25
+3. F. Valverde (RM): 10511m, Max Fatigue: 1.25
+4. Dani Carvajal (RB): 10468m, Max Fatigue: 1.25
+5. Rodrygo (RF): 9733m, Max Fatigue: 1.21
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • Brahim Diaz at minute 0: Fatigue 1.37
+  • T. Kroos at minute 12: Fatigue 1.29
+  • Brahim Diaz at minute 12: Fatigue 1.29
+  • T. Kroos at minute 13: Fatigue 1.29
+  • Brahim Diaz at minute 13: Fatigue 1.28
+  • T. Kroos at minute 11: Fatigue 1.28
+  • T. Kroos at minute 16: Fatigue 1.28
+  • T. Kroos at minute 0: Fatigue 1.27
+  • Brahim Diaz at minute 16: Fatigue 1.27
+  • T. Kroos at minute 14: Fatigue 1.27
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • A. Tchouaméni: 9 errors
+  • Rodrygo: 7 errors
+  • T. Kroos: 6 errors
+  • F. Valverde: 6 errors
+  • Dani Carvajal: 6 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.67
+  • Maximum fatigue reached: 1.37 (Brahim Diaz)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - Brahim Diaz (1 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

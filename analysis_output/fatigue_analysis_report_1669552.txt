@@ -1,0 +1,61 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1669552
+Match: Real Madrid 3-0 Real Valladolid
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1100
+Total error events detected: 50
+Fatigue-Error correlation: 0.606
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. Fran García (LB): 10516m, Max Fatigue: 1.22
+2. A. Tchouaméni (LDM): 10237m, Max Fatigue: 1.34
+3. Dani Carvajal (RB): 9768m, Max Fatigue: 1.27
+4. F. Valverde (RDM): 9637m, Max Fatigue: 1.18
+5. A. Rüdiger (LCB): 8709m, Max Fatigue: 1.23
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • A. Güler at minute 0: Fatigue 1.61
+  • Vinícius Júnior at minute 0: Fatigue 1.58
+  • A. Güler at minute 1: Fatigue 1.50
+  • A. Güler at minute 2: Fatigue 1.36
+  • A. Tchouaméni at minute 0: Fatigue 1.34
+  • A. Güler at minute 4: Fatigue 1.34
+  • A. Güler at minute 11: Fatigue 1.33
+  • A. Güler at minute 8: Fatigue 1.33
+  • A. Güler at minute 6: Fatigue 1.33
+  • A. Güler at minute 7: Fatigue 1.33
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • A. Güler: 10 errors
+  • A. Tchouaméni: 8 errors
+  • Fran García: 7 errors
+  • Dani Carvajal: 5 errors
+  • F. Valverde: 5 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.60
+  • Maximum fatigue reached: 1.61 (A. Güler)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - A. Güler (10 high-fatigue minutes)
+    - A. Tchouaméni (1 high-fatigue minutes)
+    - Vinícius Júnior (1 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

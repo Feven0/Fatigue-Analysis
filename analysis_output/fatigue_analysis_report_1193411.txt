@@ -1,0 +1,63 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1193411
+Match: SC Braga 1-2 Real Madrid
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1047
+Total error events detected: 50
+Fatigue-Error correlation: 0.651
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. E. Camavinga (LM): 10340m, Max Fatigue: 1.34
+2. L. Modrić (RM): 10229m, Max Fatigue: 1.50
+3. F. Valverde (RW): 10064m, Max Fatigue: 1.33
+4. Dani Carvajal (RB): 9753m, Max Fatigue: 1.15
+5. J. Bellingham (LW): 9733m, Max Fatigue: 1.30
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • L. Modrić at minute 3: Fatigue 1.50
+  • Vinícius Júnior at minute 2: Fatigue 1.49
+  • L. Modrić at minute 2: Fatigue 1.48
+  • L. Modrić at minute 5: Fatigue 1.42
+  • L. Modrić at minute 6: Fatigue 1.41
+  • L. Modrić at minute 4: Fatigue 1.39
+  • Vinícius Júnior at minute 0: Fatigue 1.39
+  • L. Modrić at minute 1: Fatigue 1.38
+  • L. Modrić at minute 0: Fatigue 1.37
+  • L. Modrić at minute 7: Fatigue 1.36
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • E. Camavinga: 12 errors
+  • L. Modrić: 7 errors
+  • Rodrygo: 7 errors
+  • Dani Carvajal: 6 errors
+  • Fran García: 6 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.67
+  • Maximum fatigue reached: 1.50 (L. Modrić)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - E. Camavinga (5 high-fatigue minutes)
+    - F. Valverde (2 high-fatigue minutes)
+    - J. Bellingham (2 high-fatigue minutes)
+    - L. Modrić (15 high-fatigue minutes)
+    - Vinícius Júnior (5 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

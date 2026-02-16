@@ -1,0 +1,48 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 2012892
+Match: Getafe CF 0-1 Real Madrid
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1046
+Total error events detected: 50
+Fatigue-Error correlation: 0.661
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. Lucas Vázquez (RB): 9893m, Max Fatigue: 1.07
+2. Fran García (LB): 9552m, Max Fatigue: 1.05
+3. F. Valverde (LW): 9207m, Max Fatigue: 0.99
+4. Brahim Diaz (RW): 9031m, Max Fatigue: 0.97
+5. A. Tchouaméni (LM): 9015m, Max Fatigue: 1.02
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  No critical fatigue periods detected
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • Vinícius Júnior: 8 errors
+  • F. Valverde: 6 errors
+  • Lucas Vázquez: 6 errors
+  • Brahim Diaz: 6 errors
+  • D. Alaba: 6 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.54
+  • Maximum fatigue reached: 1.07 (Lucas Vázquez)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

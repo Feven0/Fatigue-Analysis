@@ -1,0 +1,66 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 2005298
+Match: Betis Balompié 2-1 Real Madrid
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1080
+Total error events detected: 50
+Fatigue-Error correlation: 0.664
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. Lucas Vázquez (RB): 10304m, Max Fatigue: 1.60
+2. Rodrygo (RF): 10080m, Max Fatigue: 1.83
+3. L. Modrić (RM): 9696m, Max Fatigue: 1.80
+4. A. Tchouaméni (DM): 9627m, Max Fatigue: 1.59
+5. Vinícius Júnior (LF): 9273m, Max Fatigue: 1.76
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • Rodrygo at minute 0: Fatigue 1.83
+  • L. Modrić at minute 0: Fatigue 1.80
+  • Vinícius Júnior at minute 0: Fatigue 1.76
+  • Lucas Vázquez at minute 0: Fatigue 1.60
+  • A. Tchouaméni at minute 0: Fatigue 1.59
+  • Brahim Diaz at minute 5: Fatigue 1.45
+  • A. Tchouaméni at minute 3: Fatigue 1.43
+  • Rodrygo at minute 5: Fatigue 1.43
+  • Brahim Diaz at minute 0: Fatigue 1.42
+  • K. Mbappé at minute 0: Fatigue 1.42
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • Brahim Diaz: 11 errors
+  • L. Modrić: 8 errors
+  • Rodrygo: 8 errors
+  • Lucas Vázquez: 7 errors
+  • A. Tchouaméni: 5 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.63
+  • Maximum fatigue reached: 1.83 (Rodrygo)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - A. Rüdiger (1 high-fatigue minutes)
+    - A. Tchouaméni (8 high-fatigue minutes)
+    - Brahim Diaz (8 high-fatigue minutes)
+    - K. Mbappé (1 high-fatigue minutes)
+    - L. Modrić (4 high-fatigue minutes)
+    - Lucas Vázquez (2 high-fatigue minutes)
+    - Rodrygo (9 high-fatigue minutes)
+    - Vinícius Júnior (3 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

@@ -1,0 +1,57 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1365685
+Match: Real Madrid 3-2 UD Almería
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1123
+Total error events detected: 50
+Fatigue-Error correlation: 0.570
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. Dani Carvajal (RB): 10883m, Max Fatigue: 1.23
+2. J. Bellingham (LW): 10274m, Max Fatigue: 1.20
+3. A. Tchouaméni (RM): 9887m, Max Fatigue: 1.14
+4. Vinícius Júnior (CF): 9627m, Max Fatigue: 1.11
+5. A. Rüdiger (RCB): 8783m, Max Fatigue: 0.94
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • T. Kroos at minute 11: Fatigue 1.26
+  • T. Kroos at minute 13: Fatigue 1.26
+  • T. Kroos at minute 12: Fatigue 1.24
+  • T. Kroos at minute 15: Fatigue 1.23
+  • Dani Carvajal at minute 0: Fatigue 1.23
+  • T. Kroos at minute 14: Fatigue 1.23
+  • T. Kroos at minute 24: Fatigue 1.22
+  • T. Kroos at minute 23: Fatigue 1.22
+  • F. Mendy at minute 11: Fatigue 1.22
+  • T. Kroos at minute 21: Fatigue 1.22
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • T. Kroos: 11 errors
+  • Dani Carvajal: 7 errors
+  • A. Tchouaméni: 7 errors
+  • Rodrygo: 7 errors
+  • F. Mendy: 6 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.63
+  • Maximum fatigue reached: 1.26 (T. Kroos)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

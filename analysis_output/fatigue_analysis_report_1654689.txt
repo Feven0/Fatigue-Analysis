@@ -1,0 +1,48 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1654689
+Match: RCD Mallorca 1-1 Real Madrid
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1136
+Total error events detected: 50
+Fatigue-Error correlation: 0.623
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. Rodrygo (RF): 10632m, Max Fatigue: 1.16
+2. F. Valverde (RM): 10241m, Max Fatigue: 1.08
+3. Dani Carvajal (RB): 9184m, Max Fatigue: 1.02
+4. F. Mendy (LB): 8908m, Max Fatigue: 0.91
+5. J. Bellingham (LM): 8772m, Max Fatigue: 1.07
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  No critical fatigue periods detected
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • A. Tchouaméni: 11 errors
+  • F. Valverde: 8 errors
+  • Dani Carvajal: 7 errors
+  • Vinícius Júnior: 7 errors
+  • J. Bellingham: 5 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.57
+  • Maximum fatigue reached: 1.16 (Rodrygo)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

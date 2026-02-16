@@ -1,0 +1,65 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1683776
+Match: Real Madrid 2-0 Betis Balompié
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1078
+Total error events detected: 50
+Fatigue-Error correlation: 0.579
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. A. Tchouaméni (DM): 10838m, Max Fatigue: 1.52
+2. F. Valverde (RM): 10008m, Max Fatigue: 1.26
+3. Dani Carvajal (RB): 9850m, Max Fatigue: 1.32
+4. Vinícius Júnior (LF): 9721m, Max Fatigue: 1.46
+5. Rodrygo (RF): 9341m, Max Fatigue: 1.23
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • Dani Ceballos at minute 0: Fatigue 1.60
+  • A. Tchouaméni at minute 0: Fatigue 1.52
+  • A. Rüdiger at minute 0: Fatigue 1.49
+  • Vinícius Júnior at minute 0: Fatigue 1.46
+  • Dani Ceballos at minute 5: Fatigue 1.44
+  • Éder Militão at minute 0: Fatigue 1.42
+  • A. Tchouaméni at minute 1: Fatigue 1.39
+  • F. Mendy at minute 0: Fatigue 1.39
+  • Dani Ceballos at minute 3: Fatigue 1.38
+  • Dani Ceballos at minute 10: Fatigue 1.38
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • A. Tchouaméni: 12 errors
+  • Dani Ceballos: 8 errors
+  • Rodrygo: 8 errors
+  • F. Valverde: 5 errors
+  • F. Mendy: 4 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.66
+  • Maximum fatigue reached: 1.60 (Dani Ceballos)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - A. Rüdiger (2 high-fatigue minutes)
+    - A. Tchouaméni (3 high-fatigue minutes)
+    - Dani Carvajal (1 high-fatigue minutes)
+    - Dani Ceballos (16 high-fatigue minutes)
+    - F. Mendy (1 high-fatigue minutes)
+    - Vinícius Júnior (1 high-fatigue minutes)
+    - Éder Militão (2 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

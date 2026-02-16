@@ -1,0 +1,62 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 2002290
+Match: Real Madrid 1-1 Atlético Madrid
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1079
+Total error events detected: 50
+Fatigue-Error correlation: 0.600
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. Fran García (LB): 10643m, Max Fatigue: 1.27
+2. J. Bellingham (AM): 10555m, Max Fatigue: 1.79
+3. F. Valverde (RDM): 10183m, Max Fatigue: 1.26
+4. Lucas Vázquez (RB): 9945m, Max Fatigue: 1.33
+5. Rodrygo (RW): 9891m, Max Fatigue: 1.24
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • J. Bellingham at minute 0: Fatigue 1.79
+  • J. Bellingham at minute 4: Fatigue 1.50
+  • J. Bellingham at minute 1: Fatigue 1.48
+  • Vinícius Júnior at minute 2: Fatigue 1.48
+  • Vinícius Júnior at minute 4: Fatigue 1.47
+  • J. Bellingham at minute 5: Fatigue 1.47
+  • J. Bellingham at minute 2: Fatigue 1.45
+  • J. Bellingham at minute 6: Fatigue 1.42
+  • Vinícius Júnior at minute 5: Fatigue 1.42
+  • Vinícius Júnior at minute 1: Fatigue 1.41
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • Vinícius Júnior: 9 errors
+  • Fran García: 8 errors
+  • Dani Ceballos: 8 errors
+  • Lucas Vázquez: 7 errors
+  • F. Valverde: 5 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.67
+  • Maximum fatigue reached: 1.79 (J. Bellingham)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - Dani Ceballos (2 high-fatigue minutes)
+    - J. Bellingham (13 high-fatigue minutes)
+    - Lucas Vázquez (3 high-fatigue minutes)
+    - Vinícius Júnior (6 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

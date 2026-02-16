@@ -1,0 +1,64 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1882238
+Match: Liverpool 2-0 Real Madrid
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1024
+Total error events detected: 50
+Fatigue-Error correlation: 0.643
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. J. Bellingham (LW): 10051m, Max Fatigue: 1.43
+2. Brahim Diaz (CF): 9587m, Max Fatigue: 1.54
+3. F. Valverde (RB): 9237m, Max Fatigue: 1.43
+4. A. Rüdiger (LCB): 8226m, Max Fatigue: 0.99
+5. K. Mbappé (CF): 8213m, Max Fatigue: 1.08
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • Brahim Diaz at minute 0: Fatigue 1.54
+  • A. Güler at minute 2: Fatigue 1.47
+  • Brahim Diaz at minute 2: Fatigue 1.45
+  • F. Valverde at minute 0: Fatigue 1.43
+  • J. Bellingham at minute 3: Fatigue 1.43
+  • A. Güler at minute 3: Fatigue 1.42
+  • Brahim Diaz at minute 3: Fatigue 1.42
+  • E. Camavinga at minute 2: Fatigue 1.42
+  • J. Bellingham at minute 2: Fatigue 1.40
+  • E. Camavinga at minute 3: Fatigue 1.39
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • Brahim Diaz: 10 errors
+  • L. Modrić: 9 errors
+  • F. Mendy: 7 errors
+  • F. Valverde: 7 errors
+  • E. Camavinga: 5 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.61
+  • Maximum fatigue reached: 1.54 (Brahim Diaz)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - A. Güler (2 high-fatigue minutes)
+    - Brahim Diaz (4 high-fatigue minutes)
+    - E. Camavinga (2 high-fatigue minutes)
+    - F. Valverde (1 high-fatigue minutes)
+    - J. Bellingham (2 high-fatigue minutes)
+    - L. Modrić (2 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

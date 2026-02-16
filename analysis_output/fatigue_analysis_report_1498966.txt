@@ -1,0 +1,64 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1498966
+Match: Real Madrid 3-2 FC Barcelona
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1068
+Total error events detected: 50
+Fatigue-Error correlation: 0.582
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. Lucas Vázquez (RB): 10792m, Max Fatigue: 1.50
+2. J. Bellingham (AM): 10446m, Max Fatigue: 1.45
+3. F. Valverde (RDM): 10169m, Max Fatigue: 1.32
+4. L. Modrić (RW): 9723m, Max Fatigue: 1.33
+5. A. Tchouaméni (RCB): 8902m, Max Fatigue: 1.14
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • Lucas Vázquez at minute 3: Fatigue 1.50
+  • T. Kroos at minute 3: Fatigue 1.47
+  • Lucas Vázquez at minute 0: Fatigue 1.46
+  • J. Bellingham at minute 3: Fatigue 1.45
+  • Lucas Vázquez at minute 2: Fatigue 1.37
+  • T. Kroos at minute 2: Fatigue 1.36
+  • Lucas Vázquez at minute 1: Fatigue 1.35
+  • Lucas Vázquez at minute 4: Fatigue 1.35
+  • J. Bellingham at minute 0: Fatigue 1.34
+  • J. Bellingham at minute 2: Fatigue 1.33
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • T. Kroos: 8 errors
+  • Lucas Vázquez: 8 errors
+  • J. Bellingham: 8 errors
+  • L. Modrić: 8 errors
+  • Rodrygo: 5 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.61
+  • Maximum fatigue reached: 1.50 (Lucas Vázquez)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - F. Valverde (1 high-fatigue minutes)
+    - J. Bellingham (4 high-fatigue minutes)
+    - L. Modrić (1 high-fatigue minutes)
+    - Lucas Vázquez (5 high-fatigue minutes)
+    - Rodrygo (1 high-fatigue minutes)
+    - T. Kroos (4 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

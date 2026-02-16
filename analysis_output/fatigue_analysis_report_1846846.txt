@@ -1,0 +1,65 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1846846
+Match: Real Madrid 4-0 CA Osasuna
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1067
+Total error events detected: 50
+Fatigue-Error correlation: 0.680
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. E. Camavinga (LM): 9936m, Max Fatigue: 1.32
+2. Fran García (LB): 9760m, Max Fatigue: 1.63
+3. F. Valverde (RM): 8960m, Max Fatigue: 1.33
+4. A. Rüdiger (LCB): 8698m, Max Fatigue: 1.68
+5. K. Mbappé (CF): 8082m, Max Fatigue: 1.09
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • A. Rüdiger at minute 0: Fatigue 1.68
+  • Fran García at minute 0: Fatigue 1.63
+  • Éder Militão at minute 0: Fatigue 1.57
+  • Vinícius Júnior at minute 0: Fatigue 1.56
+  • Lucas Vázquez at minute 0: Fatigue 1.55
+  • A. Rüdiger at minute 1: Fatigue 1.37
+  • F. Valverde at minute 0: Fatigue 1.33
+  • E. Camavinga at minute 0: Fatigue 1.32
+  • Éder Militão at minute 1: Fatigue 1.28
+  • Vinícius Júnior at minute 8: Fatigue 1.27
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • E. Camavinga: 12 errors
+  • Lucas Vázquez: 10 errors
+  • Fran García: 5 errors
+  • Rodrygo: 5 errors
+  • J. Bellingham: 4 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.58
+  • Maximum fatigue reached: 1.68 (A. Rüdiger)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - A. Rüdiger (2 high-fatigue minutes)
+    - E. Camavinga (1 high-fatigue minutes)
+    - F. Valverde (1 high-fatigue minutes)
+    - Fran García (1 high-fatigue minutes)
+    - Lucas Vázquez (1 high-fatigue minutes)
+    - Vinícius Júnior (1 high-fatigue minutes)
+    - Éder Militão (1 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

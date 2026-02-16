@@ -1,0 +1,65 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1506182
+Match: Real Sociedad 0-1 Real Madrid
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1079
+Total error events detected: 50
+Fatigue-Error correlation: 0.571
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. A. Tchouaméni (RDM): 10460m, Max Fatigue: 1.42
+2. Joselu (CF): 9991m, Max Fatigue: 1.23
+3. Dani Carvajal (RB): 9431m, Max Fatigue: 1.45
+4. Éder Militão (RCB): 8893m, Max Fatigue: 1.23
+5. Nacho Fernández (LCB): 8851m, Max Fatigue: 1.13
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • L. Modrić at minute 0: Fatigue 1.61
+  • Brahim Diaz at minute 0: Fatigue 1.54
+  • Brahim Diaz at minute 2: Fatigue 1.51
+  • Dani Ceballos at minute 0: Fatigue 1.46
+  • Dani Carvajal at minute 0: Fatigue 1.45
+  • A. Güler at minute 0: Fatigue 1.45
+  • Brahim Diaz at minute 4: Fatigue 1.43
+  • A. Tchouaméni at minute 0: Fatigue 1.42
+  • A. Güler at minute 2: Fatigue 1.41
+  • A. Tchouaméni at minute 2: Fatigue 1.40
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • Brahim Diaz: 10 errors
+  • Dani Ceballos: 8 errors
+  • A. Güler: 8 errors
+  • A. Tchouaméni: 6 errors
+  • L. Modrić: 5 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.64
+  • Maximum fatigue reached: 1.61 (L. Modrić)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - A. Güler (5 high-fatigue minutes)
+    - A. Tchouaméni (7 high-fatigue minutes)
+    - Brahim Diaz (13 high-fatigue minutes)
+    - Dani Carvajal (3 high-fatigue minutes)
+    - Dani Ceballos (6 high-fatigue minutes)
+    - Fran García (1 high-fatigue minutes)
+    - L. Modrić (3 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

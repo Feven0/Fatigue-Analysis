@@ -1,0 +1,65 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 2006572
+Match: Real Madrid 2-1 Rayo Vallecano
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1090
+Total error events detected: 50
+Fatigue-Error correlation: 0.588
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. A. Tchouaméni (RM): 10661m, Max Fatigue: 1.50
+2. Lucas Vázquez (RB): 10379m, Max Fatigue: 1.36
+3. Fran García (LB): 10259m, Max Fatigue: 1.47
+4. L. Modrić (LM): 10161m, Max Fatigue: 1.45
+5. Vinícius Júnior (CF): 9500m, Max Fatigue: 1.35
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • D. Alaba at minute 0: Fatigue 1.62
+  • J. Bellingham at minute 0: Fatigue 1.55
+  • A. Tchouaméni at minute 0: Fatigue 1.50
+  • Fran García at minute 0: Fatigue 1.47
+  • L. Modrić at minute 0: Fatigue 1.45
+  • Fran García at minute 4: Fatigue 1.39
+  • J. Bellingham at minute 5: Fatigue 1.38
+  • J. Bellingham at minute 4: Fatigue 1.38
+  • D. Alaba at minute 2: Fatigue 1.37
+  • Lucas Vázquez at minute 0: Fatigue 1.36
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • Fran García: 8 errors
+  • Vinícius Júnior: 7 errors
+  • Lucas Vázquez: 7 errors
+  • A. Tchouaméni: 7 errors
+  • L. Modrić: 6 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.68
+  • Maximum fatigue reached: 1.62 (D. Alaba)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - A. Tchouaméni (1 high-fatigue minutes)
+    - D. Alaba (3 high-fatigue minutes)
+    - Fran García (3 high-fatigue minutes)
+    - J. Bellingham (6 high-fatigue minutes)
+    - L. Modrić (2 high-fatigue minutes)
+    - Lucas Vázquez (1 high-fatigue minutes)
+    - Vinícius Júnior (1 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

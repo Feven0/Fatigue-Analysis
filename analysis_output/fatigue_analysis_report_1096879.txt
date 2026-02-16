@@ -1,0 +1,64 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1096879
+Match: Real Madrid 2-1 Real Sociedad
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1061
+Total error events detected: 50
+Fatigue-Error correlation: 0.639
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. J. Bellingham (AM): 10845m, Max Fatigue: 1.56
+2. T. Kroos (LM): 10767m, Max Fatigue: 1.48
+3. Dani Carvajal (RB): 9758m, Max Fatigue: 1.32
+4. Rodrygo (CF): 9698m, Max Fatigue: 1.14
+5. F. Valverde (RM): 9628m, Max Fatigue: 1.39
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • J. Bellingham at minute 0: Fatigue 1.56
+  • T. Kroos at minute 0: Fatigue 1.48
+  • J. Bellingham at minute 2: Fatigue 1.48
+  • J. Bellingham at minute 1: Fatigue 1.41
+  • F. Valverde at minute 2: Fatigue 1.39
+  • J. Bellingham at minute 3: Fatigue 1.35
+  • F. Valverde at minute 3: Fatigue 1.34
+  • T. Kroos at minute 1: Fatigue 1.34
+  • F. Valverde at minute 0: Fatigue 1.33
+  • J. Bellingham at minute 9: Fatigue 1.33
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • F. Valverde: 11 errors
+  • T. Kroos: 9 errors
+  • Fran García: 7 errors
+  • Dani Carvajal: 6 errors
+  • Rodrygo: 5 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.66
+  • Maximum fatigue reached: 1.56 (J. Bellingham)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - Dani Carvajal (1 high-fatigue minutes)
+    - F. Valverde (3 high-fatigue minutes)
+    - Fran García (1 high-fatigue minutes)
+    - J. Bellingham (6 high-fatigue minutes)
+    - Joselu (1 high-fatigue minutes)
+    - T. Kroos (2 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

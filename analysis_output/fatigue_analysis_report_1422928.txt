@@ -1,0 +1,62 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1422928
+Match: Valencia CF 2-2 Real Madrid
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1078
+Total error events detected: 50
+Fatigue-Error correlation: 0.643
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. Dani Carvajal (RB): 9857m, Max Fatigue: 1.17
+2. J. Bellingham (CF): 9565m, Max Fatigue: 1.67
+3. A. Tchouaméni (RCB): 8913m, Max Fatigue: 1.15
+4. E. Camavinga (LM): 8790m, Max Fatigue: 1.47
+5. F. Valverde (RM): 8631m, Max Fatigue: 1.27
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • J. Bellingham at minute 2: Fatigue 1.67
+  • J. Bellingham at minute 1: Fatigue 1.62
+  • J. Bellingham at minute 0: Fatigue 1.61
+  • E. Camavinga at minute 0: Fatigue 1.47
+  • E. Camavinga at minute 2: Fatigue 1.46
+  • E. Camavinga at minute 1: Fatigue 1.44
+  • T. Kroos at minute 1: Fatigue 1.40
+  • J. Bellingham at minute 6: Fatigue 1.40
+  • E. Camavinga at minute 6: Fatigue 1.40
+  • J. Bellingham at minute 3: Fatigue 1.40
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • T. Kroos: 9 errors
+  • J. Bellingham: 8 errors
+  • F. Valverde: 7 errors
+  • E. Camavinga: 6 errors
+  • F. Mendy: 6 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.60
+  • Maximum fatigue reached: 1.67 (J. Bellingham)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - E. Camavinga (8 high-fatigue minutes)
+    - F. Mendy (1 high-fatigue minutes)
+    - J. Bellingham (9 high-fatigue minutes)
+    - T. Kroos (4 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

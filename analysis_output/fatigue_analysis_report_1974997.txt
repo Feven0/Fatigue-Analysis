@@ -1,0 +1,59 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1974997
+Match: Real Madrid 4-1 UD Las Palmas
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1046
+Total error events detected: 50
+Fatigue-Error correlation: 0.544
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. Lucas Vázquez (RB): 9231m, Max Fatigue: 1.13
+2. F. Valverde (LM): 9180m, Max Fatigue: 1.09
+3. Fran García (LB): 9087m, Max Fatigue: 1.07
+4. J. Bellingham (AM): 8848m, Max Fatigue: 1.21
+5. Dani Ceballos (RM): 8617m, Max Fatigue: 1.31
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • Dani Ceballos at minute 8: Fatigue 1.31
+  • Dani Ceballos at minute 7: Fatigue 1.29
+  • Brahim Diaz at minute 8: Fatigue 1.28
+  • Brahim Diaz at minute 7: Fatigue 1.27
+  • Dani Ceballos at minute 9: Fatigue 1.27
+  • Dani Ceballos at minute 6: Fatigue 1.26
+  • Brahim Diaz at minute 9: Fatigue 1.26
+  • Dani Ceballos at minute 3: Fatigue 1.23
+  • Dani Ceballos at minute 10: Fatigue 1.23
+  • Brahim Diaz at minute 6: Fatigue 1.23
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • Brahim Diaz: 9 errors
+  • Dani Ceballos: 8 errors
+  • F. Valverde: 8 errors
+  • Fran García: 6 errors
+  • J. Bellingham: 6 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.59
+  • Maximum fatigue reached: 1.31 (Dani Ceballos)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - Dani Ceballos (1 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

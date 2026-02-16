@@ -1,0 +1,62 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1985247
+Match: Real Valladolid 0-3 Real Madrid
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1047
+Total error events detected: 50
+Fatigue-Error correlation: 0.621
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. Brahim Diaz (RW): 9881m, Max Fatigue: 1.49
+2. J. Bellingham (AM): 9673m, Max Fatigue: 1.64
+3. Fran García (LB): 9640m, Max Fatigue: 1.08
+4. F. Valverde (RDM): 8913m, Max Fatigue: 1.38
+5. A. Tchouaméni (RCB): 8580m, Max Fatigue: 1.00
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • J. Bellingham at minute 0: Fatigue 1.64
+  • Brahim Diaz at minute 1: Fatigue 1.49
+  • J. Bellingham at minute 1: Fatigue 1.40
+  • K. Mbappé at minute 0: Fatigue 1.39
+  • F. Valverde at minute 1: Fatigue 1.38
+  • Brahim Diaz at minute 0: Fatigue 1.38
+  • F. Valverde at minute 0: Fatigue 1.36
+  • K. Mbappé at minute 1: Fatigue 1.32
+  • Brahim Diaz at minute 3: Fatigue 1.30
+  • Dani Ceballos at minute 1: Fatigue 1.29
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • F. Valverde: 9 errors
+  • Dani Ceballos: 9 errors
+  • Rodrygo: 9 errors
+  • J. Bellingham: 7 errors
+  • Brahim Diaz: 6 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.62
+  • Maximum fatigue reached: 1.64 (J. Bellingham)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - Brahim Diaz (2 high-fatigue minutes)
+    - F. Valverde (2 high-fatigue minutes)
+    - J. Bellingham (2 high-fatigue minutes)
+    - K. Mbappé (2 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

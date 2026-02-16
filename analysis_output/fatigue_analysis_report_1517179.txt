@@ -1,0 +1,64 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1517179
+Match: Real Madrid 3-0 CF Cadiz
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1034
+Total error events detected: 50
+Fatigue-Error correlation: 0.650
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. Dani Ceballos (LM): 10472m, Max Fatigue: 1.29
+2. Fran García (LB): 10325m, Max Fatigue: 1.50
+3. Dani Carvajal (RB): 9805m, Max Fatigue: 1.13
+4. L. Modrić (RM): 9601m, Max Fatigue: 1.30
+5. Joselu (CF): 9009m, Max Fatigue: 1.33
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • Fran García at minute 4: Fatigue 1.50
+  • E. Camavinga at minute 0: Fatigue 1.49
+  • Fran García at minute 3: Fatigue 1.44
+  • E. Camavinga at minute 1: Fatigue 1.39
+  • Brahim Diaz at minute 0: Fatigue 1.39
+  • E. Camavinga at minute 3: Fatigue 1.36
+  • E. Camavinga at minute 4: Fatigue 1.35
+  • A. Güler at minute 4: Fatigue 1.34
+  • Joselu at minute 1: Fatigue 1.33
+  • A. Güler at minute 1: Fatigue 1.31
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • Dani Ceballos: 11 errors
+  • A. Güler: 8 errors
+  • Dani Carvajal: 7 errors
+  • E. Camavinga: 6 errors
+  • Fran García: 5 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.66
+  • Maximum fatigue reached: 1.50 (Fran García)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - A. Güler (2 high-fatigue minutes)
+    - Brahim Diaz (1 high-fatigue minutes)
+    - E. Camavinga (4 high-fatigue minutes)
+    - Fran García (3 high-fatigue minutes)
+    - Joselu (2 high-fatigue minutes)
+    - L. Modrić (1 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

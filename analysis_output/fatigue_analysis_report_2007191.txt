@@ -1,0 +1,60 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 2007191
+Match: Atlético Madrid 1-0 Real Madrid
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1420
+Total error events detected: 50
+Fatigue-Error correlation: 0.650
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. J. Bellingham (LW): 13261m, Max Fatigue: 1.31
+2. F. Valverde (RB): 12941m, Max Fatigue: 1.07
+3. Raúl Asencio (RCB): 11714m, Max Fatigue: 1.00
+4. Vinícius Júnior (CF): 11567m, Max Fatigue: 1.10
+5. K. Mbappé (CF): 11273m, Max Fatigue: 1.00
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • J. Bellingham at minute 3: Fatigue 1.31
+  • L. Modrić at minute 0: Fatigue 1.31
+  • A. Tchouaméni at minute 3: Fatigue 1.24
+  • L. Modrić at minute 20: Fatigue 1.22
+  • L. Modrić at minute 19: Fatigue 1.22
+  • A. Tchouaméni at minute 15: Fatigue 1.22
+  • A. Tchouaméni at minute 18: Fatigue 1.21
+  • A. Tchouaméni at minute 19: Fatigue 1.21
+  • A. Tchouaméni at minute 16: Fatigue 1.21
+  • A. Tchouaméni at minute 21: Fatigue 1.21
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • L. Modrić: 8 errors
+  • F. Mendy: 8 errors
+  • Raúl Asencio: 7 errors
+  • Rodrygo: 5 errors
+  • Vinícius Júnior: 5 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.47
+  • Maximum fatigue reached: 1.31 (J. Bellingham)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - J. Bellingham (1 high-fatigue minutes)
+    - L. Modrić (1 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

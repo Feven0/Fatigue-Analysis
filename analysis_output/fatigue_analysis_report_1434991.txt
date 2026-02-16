@@ -1,0 +1,62 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1434991
+Match: Real Madrid 4-0 Celta Vigo
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1071
+Total error events detected: 50
+Fatigue-Error correlation: 0.619
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. Lucas Vázquez (RB): 10843m, Max Fatigue: 1.30
+2. E. Camavinga (LM): 9929m, Max Fatigue: 1.38
+3. F. Valverde (RM): 9411m, Max Fatigue: 1.12
+4. F. Mendy (LB): 9396m, Max Fatigue: 1.14
+5. Brahim Diaz (AM): 9283m, Max Fatigue: 1.42
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • L. Modrić at minute 0: Fatigue 1.59
+  • L. Modrić at minute 1: Fatigue 1.49
+  • L. Modrić at minute 2: Fatigue 1.48
+  • Brahim Diaz at minute 2: Fatigue 1.42
+  • L. Modrić at minute 4: Fatigue 1.42
+  • E. Camavinga at minute 2: Fatigue 1.38
+  • Brahim Diaz at minute 1: Fatigue 1.38
+  • L. Modrić at minute 3: Fatigue 1.38
+  • L. Modrić at minute 5: Fatigue 1.37
+  • Vinícius Júnior at minute 1: Fatigue 1.35
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • L. Modrić: 10 errors
+  • Lucas Vázquez: 8 errors
+  • E. Camavinga: 6 errors
+  • Brahim Diaz: 5 errors
+  • F. Valverde: 5 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.66
+  • Maximum fatigue reached: 1.59 (L. Modrić)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - Brahim Diaz (3 high-fatigue minutes)
+    - E. Camavinga (6 high-fatigue minutes)
+    - L. Modrić (10 high-fatigue minutes)
+    - Vinícius Júnior (1 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

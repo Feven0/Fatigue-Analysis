@@ -1,0 +1,63 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1927275
+Match: Real Madrid 4-2 Sevilla FC
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1089
+Total error events detected: 50
+Fatigue-Error correlation: 0.555
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. Lucas Vázquez (RB): 10776m, Max Fatigue: 1.35
+2. Brahim Diaz (RW): 10132m, Max Fatigue: 1.37
+3. F. Valverde (LDM): 10102m, Max Fatigue: 1.32
+4. E. Camavinga (LB): 9665m, Max Fatigue: 1.04
+5. A. Tchouaméni (RCB): 9083m, Max Fatigue: 1.26
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • Dani Ceballos at minute 1: Fatigue 1.49
+  • Dani Ceballos at minute 2: Fatigue 1.45
+  • J. Bellingham at minute 5: Fatigue 1.43
+  • Dani Ceballos at minute 3: Fatigue 1.42
+  • J. Bellingham at minute 3: Fatigue 1.39
+  • J. Bellingham at minute 6: Fatigue 1.39
+  • J. Bellingham at minute 7: Fatigue 1.38
+  • Brahim Diaz at minute 2: Fatigue 1.37
+  • Dani Ceballos at minute 5: Fatigue 1.36
+  • Dani Ceballos at minute 7: Fatigue 1.36
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • Brahim Diaz: 8 errors
+  • J. Bellingham: 8 errors
+  • F. Valverde: 7 errors
+  • Dani Ceballos: 7 errors
+  • Lucas Vázquez: 6 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.63
+  • Maximum fatigue reached: 1.49 (Dani Ceballos)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - Brahim Diaz (1 high-fatigue minutes)
+    - Dani Ceballos (9 high-fatigue minutes)
+    - F. Valverde (1 high-fatigue minutes)
+    - J. Bellingham (8 high-fatigue minutes)
+    - Lucas Vázquez (1 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

@@ -1,0 +1,57 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1340201
+Match: Real Madrid 1-0 RCD Mallorca
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1068
+Total error events detected: 50
+Fatigue-Error correlation: 0.608
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. Fran García (LB): 10187m, Max Fatigue: 1.22
+2. J. Bellingham (LW): 9990m, Max Fatigue: 1.26
+3. Dani Carvajal (RB): 9831m, Max Fatigue: 1.18
+4. F. Valverde (RM): 9731m, Max Fatigue: 1.28
+5. Rodrygo (CF): 9080m, Max Fatigue: 1.20
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • F. Valverde at minute 5: Fatigue 1.28
+  • F. Valverde at minute 6: Fatigue 1.26
+  • J. Bellingham at minute 8: Fatigue 1.26
+  • J. Bellingham at minute 13: Fatigue 1.25
+  • J. Bellingham at minute 10: Fatigue 1.24
+  • F. Valverde at minute 4: Fatigue 1.23
+  • J. Bellingham at minute 14: Fatigue 1.23
+  • Fran García at minute 10: Fatigue 1.22
+  • J. Bellingham at minute 15: Fatigue 1.22
+  • F. Valverde at minute 7: Fatigue 1.22
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • T. Kroos: 9 errors
+  • Dani Carvajal: 7 errors
+  • Rodrygo: 7 errors
+  • Fran García: 7 errors
+  • J. Bellingham: 6 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.65
+  • Maximum fatigue reached: 1.28 (F. Valverde)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

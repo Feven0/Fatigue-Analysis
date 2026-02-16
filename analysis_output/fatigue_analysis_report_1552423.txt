@@ -1,0 +1,66 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1552423
+Match: Real Madrid 0-0 Betis Balompié
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1034
+Total error events detected: 50
+Fatigue-Error correlation: 0.595
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. T. Kroos (LM): 9617m, Max Fatigue: 1.80
+2. Rodrygo (CF): 9033m, Max Fatigue: 1.43
+3. J. Bellingham (LW): 8909m, Max Fatigue: 1.57
+4. F. Mendy (LB): 8874m, Max Fatigue: 1.40
+5. F. Valverde (RW): 8846m, Max Fatigue: 1.27
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • T. Kroos at minute 0: Fatigue 1.80
+  • E. Camavinga at minute 0: Fatigue 1.77
+  • T. Kroos at minute 1: Fatigue 1.67
+  • E. Camavinga at minute 1: Fatigue 1.63
+  • Vinícius Júnior at minute 0: Fatigue 1.62
+  • J. Bellingham at minute 0: Fatigue 1.57
+  • E. Camavinga at minute 2: Fatigue 1.52
+  • T. Kroos at minute 2: Fatigue 1.49
+  • T. Kroos at minute 3: Fatigue 1.44
+  • Rodrygo at minute 0: Fatigue 1.43
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • T. Kroos: 10 errors
+  • J. Bellingham: 8 errors
+  • Dani Carvajal: 7 errors
+  • F. Mendy: 7 errors
+  • Vinícius Júnior: 6 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.63
+  • Maximum fatigue reached: 1.80 (T. Kroos)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - A. Rüdiger (1 high-fatigue minutes)
+    - Dani Carvajal (1 high-fatigue minutes)
+    - E. Camavinga (15 high-fatigue minutes)
+    - F. Mendy (1 high-fatigue minutes)
+    - J. Bellingham (2 high-fatigue minutes)
+    - Rodrygo (1 high-fatigue minutes)
+    - T. Kroos (13 high-fatigue minutes)
+    - Vinícius Júnior (1 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

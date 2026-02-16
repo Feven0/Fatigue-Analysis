@@ -1,0 +1,62 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1839445
+Match: Real Madrid 1-3 Milan
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1093
+Total error events detected: 50
+Fatigue-Error correlation: 0.583
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. Lucas Vázquez (RB): 10199m, Max Fatigue: 1.31
+2. Vinícius Júnior (CF): 9035m, Max Fatigue: 1.27
+3. A. Rüdiger (LCB): 8926m, Max Fatigue: 1.11
+4. Éder Militão (RCB): 8574m, Max Fatigue: 1.15
+5. K. Mbappé (CF): 7968m, Max Fatigue: 1.09
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • L. Modrić at minute 0: Fatigue 1.42
+  • L. Modrić at minute 1: Fatigue 1.39
+  • J. Bellingham at minute 3: Fatigue 1.37
+  • J. Bellingham at minute 4: Fatigue 1.35
+  • J. Bellingham at minute 5: Fatigue 1.35
+  • A. Tchouaméni at minute 4: Fatigue 1.35
+  • J. Bellingham at minute 1: Fatigue 1.33
+  • A. Tchouaméni at minute 5: Fatigue 1.32
+  • J. Bellingham at minute 0: Fatigue 1.32
+  • L. Modrić at minute 4: Fatigue 1.32
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • J. Bellingham: 10 errors
+  • A. Tchouaméni: 10 errors
+  • Lucas Vázquez: 8 errors
+  • L. Modrić: 7 errors
+  • Vinícius Júnior: 5 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.57
+  • Maximum fatigue reached: 1.42 (L. Modrić)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - A. Tchouaméni (2 high-fatigue minutes)
+    - J. Bellingham (5 high-fatigue minutes)
+    - L. Modrić (3 high-fatigue minutes)
+    - Lucas Vázquez (1 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

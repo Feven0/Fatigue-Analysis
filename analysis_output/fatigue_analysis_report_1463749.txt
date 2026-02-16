@@ -1,0 +1,60 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1463749
+Match: Real Madrid 2-0 Athletic Bilbao
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1079
+Total error events detected: 50
+Fatigue-Error correlation: 0.581
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. A. Tchouaméni (RM): 10793m, Max Fatigue: 1.30
+2. J. Bellingham (LW): 10085m, Max Fatigue: 1.26
+3. Dani Carvajal (RB): 9617m, Max Fatigue: 1.12
+4. T. Kroos (LM): 9517m, Max Fatigue: 1.39
+5. F. Mendy (LB): 9346m, Max Fatigue: 1.14
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • T. Kroos at minute 1: Fatigue 1.39
+  • Brahim Diaz at minute 1: Fatigue 1.33
+  • A. Tchouaméni at minute 1: Fatigue 1.30
+  • T. Kroos at minute 2: Fatigue 1.29
+  • Rodrygo at minute 1: Fatigue 1.28
+  • J. Bellingham at minute 1: Fatigue 1.26
+  • J. Bellingham at minute 5: Fatigue 1.24
+  • Nacho Fernández at minute 1: Fatigue 1.23
+  • J. Bellingham at minute 2: Fatigue 1.23
+  • T. Kroos at minute 37: Fatigue 1.22
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • A. Tchouaméni: 10 errors
+  • T. Kroos: 8 errors
+  • J. Bellingham: 8 errors
+  • Brahim Diaz: 6 errors
+  • F. Valverde: 5 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.64
+  • Maximum fatigue reached: 1.39 (T. Kroos)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - Brahim Diaz (1 high-fatigue minutes)
+    - T. Kroos (1 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

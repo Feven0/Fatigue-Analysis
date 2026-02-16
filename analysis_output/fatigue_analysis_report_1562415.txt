@@ -1,0 +1,48 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1562415
+Match: Dortmund 0-2 Real Madrid
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1114
+Total error events detected: 50
+Fatigue-Error correlation: 0.622
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. E. Camavinga (DM): 10830m, Max Fatigue: 1.20
+2. F. Valverde (RM): 10579m, Max Fatigue: 1.18
+3. Dani Carvajal (RB): 10251m, Max Fatigue: 1.11
+4. Rodrygo (CF): 10203m, Max Fatigue: 1.17
+5. Vinícius Júnior (CF): 9737m, Max Fatigue: 1.14
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  No critical fatigue periods detected
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • Vinícius Júnior: 9 errors
+  • T. Kroos: 9 errors
+  • J. Bellingham: 8 errors
+  • Rodrygo: 8 errors
+  • F. Valverde: 6 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.62
+  • Maximum fatigue reached: 1.20 (E. Camavinga)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

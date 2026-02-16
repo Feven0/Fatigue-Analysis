@@ -1,0 +1,64 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1204769
+Match: FC Barcelona 1-2 Real Madrid
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1100
+Total error events detected: 50
+Fatigue-Error correlation: 0.668
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. A. Tchouaméni (RM): 10552m, Max Fatigue: 1.41
+2. J. Bellingham (LM): 10303m, Max Fatigue: 1.52
+3. Dani Carvajal (RCB): 9931m, Max Fatigue: 1.28
+4. F. Valverde (RWB): 9547m, Max Fatigue: 1.09
+5. Vinícius Júnior (CF): 8858m, Max Fatigue: 1.48
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • J. Bellingham at minute 0: Fatigue 1.52
+  • Vinícius Júnior at minute 0: Fatigue 1.48
+  • Rodrygo at minute 0: Fatigue 1.47
+  • A. Tchouaméni at minute 0: Fatigue 1.41
+  • D. Alaba at minute 0: Fatigue 1.41
+  • T. Kroos at minute 0: Fatigue 1.39
+  • Rodrygo at minute 5: Fatigue 1.36
+  • J. Bellingham at minute 1: Fatigue 1.33
+  • T. Kroos at minute 5: Fatigue 1.29
+  • Dani Carvajal at minute 0: Fatigue 1.28
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • J. Bellingham: 10 errors
+  • Rodrygo: 7 errors
+  • A. Tchouaméni: 7 errors
+  • T. Kroos: 7 errors
+  • Dani Carvajal: 5 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.62
+  • Maximum fatigue reached: 1.52 (J. Bellingham)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - A. Tchouaméni (1 high-fatigue minutes)
+    - D. Alaba (1 high-fatigue minutes)
+    - J. Bellingham (2 high-fatigue minutes)
+    - Rodrygo (2 high-fatigue minutes)
+    - T. Kroos (1 high-fatigue minutes)
+    - Vinícius Júnior (1 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

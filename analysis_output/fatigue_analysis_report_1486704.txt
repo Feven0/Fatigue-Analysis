@@ -1,0 +1,67 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1486704
+Match: RCD Mallorca 0-1 Real Madrid
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1048
+Total error events detected: 50
+Fatigue-Error correlation: 0.685
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. A. Tchouaméni (RDM): 10110m, Max Fatigue: 1.54
+2. Lucas Vázquez (RB): 9730m, Max Fatigue: 1.40
+3. Joselu (CF): 9387m, Max Fatigue: 1.50
+4. F. Valverde (RW): 9210m, Max Fatigue: 1.51
+5. F. Mendy (LB): 8969m, Max Fatigue: 1.34
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • J. Bellingham at minute 0: Fatigue 1.89
+  • A. Tchouaméni at minute 0: Fatigue 1.54
+  • F. Valverde at minute 0: Fatigue 1.51
+  • Joselu at minute 0: Fatigue 1.50
+  • L. Modrić at minute 0: Fatigue 1.46
+  • A. Rüdiger at minute 0: Fatigue 1.43
+  • J. Bellingham at minute 2: Fatigue 1.42
+  • J. Bellingham at minute 3: Fatigue 1.40
+  • Lucas Vázquez at minute 0: Fatigue 1.40
+  • J. Bellingham at minute 1: Fatigue 1.37
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • Joselu: 9 errors
+  • J. Bellingham: 9 errors
+  • Lucas Vázquez: 8 errors
+  • F. Mendy: 8 errors
+  • Brahim Diaz: 5 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.60
+  • Maximum fatigue reached: 1.89 (J. Bellingham)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - A. Rüdiger (1 high-fatigue minutes)
+    - A. Tchouaméni (1 high-fatigue minutes)
+    - F. Mendy (1 high-fatigue minutes)
+    - F. Valverde (1 high-fatigue minutes)
+    - J. Bellingham (4 high-fatigue minutes)
+    - Joselu (1 high-fatigue minutes)
+    - L. Modrić (1 high-fatigue minutes)
+    - Lucas Vázquez (1 high-fatigue minutes)
+    - Nacho Fernández (1 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

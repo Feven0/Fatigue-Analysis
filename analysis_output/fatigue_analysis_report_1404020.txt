@@ -1,0 +1,62 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1404020
+Match: Rayo Vallecano 1-1 Real Madrid
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1123
+Total error events detected: 50
+Fatigue-Error correlation: 0.569
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. Fran García (LB): 9711m, Max Fatigue: 1.31
+2. F. Valverde (RM): 9412m, Max Fatigue: 1.39
+3. A. Tchouaméni (RCB): 8610m, Max Fatigue: 1.19
+4. Nacho Fernández (LCB): 8595m, Max Fatigue: 1.21
+5. Joselu (CF): 8516m, Max Fatigue: 1.28
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • Brahim Diaz at minute 2: Fatigue 1.39
+  • F. Valverde at minute 2: Fatigue 1.39
+  • L. Modrić at minute 2: Fatigue 1.35
+  • Fran García at minute 2: Fatigue 1.31
+  • E. Camavinga at minute 2: Fatigue 1.30
+  • L. Modrić at minute 1: Fatigue 1.29
+  • Joselu at minute 1: Fatigue 1.28
+  • Brahim Diaz at minute 1: Fatigue 1.27
+  • Joselu at minute 2: Fatigue 1.27
+  • F. Valverde at minute 1: Fatigue 1.23
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • L. Modrić: 11 errors
+  • F. Valverde: 8 errors
+  • E. Camavinga: 8 errors
+  • Lucas Vázquez: 7 errors
+  • Fran García: 5 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.56
+  • Maximum fatigue reached: 1.39 (Brahim Diaz)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - Brahim Diaz (1 high-fatigue minutes)
+    - F. Valverde (1 high-fatigue minutes)
+    - Fran García (1 high-fatigue minutes)
+    - L. Modrić (1 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

@@ -1,0 +1,61 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1980444
+Match: Real Madrid 5-1 Salzbourg
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1024
+Total error events detected: 50
+Fatigue-Error correlation: 0.604
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. L. Modrić (RM): 9305m, Max Fatigue: 1.39
+2. F. Valverde (RB): 8941m, Max Fatigue: 1.16
+3. F. Mendy (LB): 8841m, Max Fatigue: 1.20
+4. Raúl Asencio (RCB): 8502m, Max Fatigue: 1.22
+5. Vinícius Júnior (LF): 8393m, Max Fatigue: 1.02
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • Dani Ceballos at minute 0: Fatigue 1.68
+  • Dani Ceballos at minute 2: Fatigue 1.45
+  • Dani Ceballos at minute 3: Fatigue 1.41
+  • Dani Ceballos at minute 4: Fatigue 1.41
+  • L. Modrić at minute 2: Fatigue 1.39
+  • Dani Ceballos at minute 5: Fatigue 1.36
+  • Dani Ceballos at minute 1: Fatigue 1.36
+  • Dani Ceballos at minute 6: Fatigue 1.35
+  • Rodrygo at minute 2: Fatigue 1.33
+  • L. Modrić at minute 0: Fatigue 1.33
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • L. Modrić: 11 errors
+  • Dani Ceballos: 11 errors
+  • F. Valverde: 9 errors
+  • F. Mendy: 7 errors
+  • Raúl Asencio: 4 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.61
+  • Maximum fatigue reached: 1.68 (Dani Ceballos)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - Dani Ceballos (10 high-fatigue minutes)
+    - L. Modrić (2 high-fatigue minutes)
+    - Rodrygo (1 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

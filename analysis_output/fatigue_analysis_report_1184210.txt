@@ -1,0 +1,54 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1184210
+Match: Sevilla FC 1-1 Real Madrid
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1115
+Total error events detected: 50
+Fatigue-Error correlation: 0.611
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. T. Kroos (LM): 10955m, Max Fatigue: 1.20
+2. J. Bellingham (AM): 10582m, Max Fatigue: 1.20
+3. Dani Carvajal (RB): 10211m, Max Fatigue: 1.06
+4. Rodrygo (CF): 8995m, Max Fatigue: 1.27
+5. D. Alaba (LCB): 8979m, Max Fatigue: 1.15
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • Vinícius Júnior at minute 0: Fatigue 1.32
+  • Rodrygo at minute 2: Fatigue 1.27
+  • Rodrygo at minute 1: Fatigue 1.23
+  • Rodrygo at minute 3: Fatigue 1.21
+  • Rodrygo at minute 0: Fatigue 1.20
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • F. Valverde: 10 errors
+  • J. Bellingham: 7 errors
+  • T. Kroos: 7 errors
+  • F. Mendy: 6 errors
+  • Dani Carvajal: 5 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.61
+  • Maximum fatigue reached: 1.32 (Vinícius Júnior)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - Vinícius Júnior (1 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

@@ -1,0 +1,64 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1712797
+Match: Real Sociedad 0-2 Real Madrid
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1068
+Total error events detected: 50
+Fatigue-Error correlation: 0.640
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. F. Valverde (RDM): 10100m, Max Fatigue: 1.71
+2. L. Modrić (LDM): 9793m, Max Fatigue: 1.75
+3. Dani Carvajal (RB): 9470m, Max Fatigue: 1.27
+4. Vinícius Júnior (LW): 9232m, Max Fatigue: 2.09
+5. F. Mendy (LB): 8955m, Max Fatigue: 1.19
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • Vinícius Júnior at minute 0: Fatigue 2.09
+  • L. Modrić at minute 0: Fatigue 1.75
+  • F. Valverde at minute 0: Fatigue 1.71
+  • A. Güler at minute 0: Fatigue 1.57
+  • Brahim Diaz at minute 0: Fatigue 1.53
+  • K. Mbappé at minute 0: Fatigue 1.47
+  • Vinícius Júnior at minute 1: Fatigue 1.28
+  • Dani Carvajal at minute 0: Fatigue 1.27
+  • F. Valverde at minute 5: Fatigue 1.20
+  • F. Valverde at minute 13: Fatigue 1.20
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • L. Modrić: 10 errors
+  • A. Güler: 8 errors
+  • Dani Carvajal: 7 errors
+  • F. Valverde: 7 errors
+  • Vinícius Júnior: 6 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.61
+  • Maximum fatigue reached: 2.09 (Vinícius Júnior)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - A. Güler (1 high-fatigue minutes)
+    - Brahim Diaz (1 high-fatigue minutes)
+    - F. Valverde (1 high-fatigue minutes)
+    - K. Mbappé (1 high-fatigue minutes)
+    - L. Modrić (1 high-fatigue minutes)
+    - Vinícius Júnior (1 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

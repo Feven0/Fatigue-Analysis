@@ -1,0 +1,56 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1738618
+Match: Real Madrid 3-2 Alavés
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1102
+Total error events detected: 50
+Fatigue-Error correlation: 0.623
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. Lucas Vázquez (RB): 10791m, Max Fatigue: 1.36
+2. A. Tchouaméni (DM): 10522m, Max Fatigue: 1.44
+3. J. Bellingham (LM): 9701m, Max Fatigue: 1.28
+4. F. Mendy (LB): 9511m, Max Fatigue: 1.06
+5. A. Rüdiger (RCB): 8819m, Max Fatigue: 1.16
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • A. Tchouaméni at minute 0: Fatigue 1.44
+  • Lucas Vázquez at minute 0: Fatigue 1.36
+  • F. Valverde at minute 0: Fatigue 1.34
+  • J. Bellingham at minute 0: Fatigue 1.28
+  • Lucas Vázquez at minute 34: Fatigue 1.20
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • A. Tchouaméni: 9 errors
+  • F. Valverde: 8 errors
+  • F. Mendy: 7 errors
+  • J. Bellingham: 7 errors
+  • Lucas Vázquez: 6 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.59
+  • Maximum fatigue reached: 1.44 (A. Tchouaméni)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - A. Tchouaméni (1 high-fatigue minutes)
+    - F. Valverde (1 high-fatigue minutes)
+    - Lucas Vázquez (1 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

@@ -1,0 +1,65 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1129394
+Match: Girona 0-3 Real Madrid
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1127
+Total error events detected: 50
+Fatigue-Error correlation: 0.570
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. T. Kroos (LM): 11218m, Max Fatigue: 1.38
+2. A. Tchouaméni (RM): 10732m, Max Fatigue: 1.41
+3. Dani Carvajal (RB): 9970m, Max Fatigue: 1.35
+4. E. Camavinga (LB): 9770m, Max Fatigue: 1.18
+5. F. Valverde (RW): 9545m, Max Fatigue: 1.59
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • Joselu at minute 0: Fatigue 1.78
+  • F. Valverde at minute 0: Fatigue 1.59
+  • Joselu at minute 1: Fatigue 1.55
+  • J. Bellingham at minute 1: Fatigue 1.52
+  • F. Valverde at minute 1: Fatigue 1.50
+  • J. Bellingham at minute 0: Fatigue 1.46
+  • J. Bellingham at minute 5: Fatigue 1.43
+  • A. Tchouaméni at minute 1: Fatigue 1.41
+  • J. Bellingham at minute 2: Fatigue 1.38
+  • T. Kroos at minute 5: Fatigue 1.38
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • T. Kroos: 11 errors
+  • F. Valverde: 9 errors
+  • Joselu: 8 errors
+  • J. Bellingham: 7 errors
+  • A. Tchouaméni: 5 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.64
+  • Maximum fatigue reached: 1.78 (Joselu)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - A. Tchouaméni (1 high-fatigue minutes)
+    - Dani Carvajal (2 high-fatigue minutes)
+    - F. Valverde (3 high-fatigue minutes)
+    - J. Bellingham (9 high-fatigue minutes)
+    - Joselu (2 high-fatigue minutes)
+    - T. Kroos (7 high-fatigue minutes)
+    - Vinícius Júnior (1 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

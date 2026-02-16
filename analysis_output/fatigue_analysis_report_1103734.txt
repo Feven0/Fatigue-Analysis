@@ -1,0 +1,62 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1103734
+Match: Real Madrid 1-0 FC Union Berlin
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1079
+Total error events detected: 50
+Fatigue-Error correlation: 0.633
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. Lucas Vázquez (RB): 11058m, Max Fatigue: 1.36
+2. J. Bellingham (AM): 10904m, Max Fatigue: 1.49
+3. Rodrygo (CF): 10285m, Max Fatigue: 1.24
+4. D. Alaba (LB): 9976m, Max Fatigue: 1.23
+5. Joselu (CF): 9517m, Max Fatigue: 1.30
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • J. Bellingham at minute 3: Fatigue 1.49
+  • E. Camavinga at minute 3: Fatigue 1.47
+  • J. Bellingham at minute 1: Fatigue 1.47
+  • J. Bellingham at minute 6: Fatigue 1.46
+  • E. Camavinga at minute 1: Fatigue 1.45
+  • J. Bellingham at minute 2: Fatigue 1.44
+  • J. Bellingham at minute 4: Fatigue 1.44
+  • J. Bellingham at minute 11: Fatigue 1.43
+  • J. Bellingham at minute 10: Fatigue 1.40
+  • E. Camavinga at minute 2: Fatigue 1.39
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • A. Tchouaméni: 9 errors
+  • J. Bellingham: 8 errors
+  • Lucas Vázquez: 7 errors
+  • L. Modrić: 5 errors
+  • E. Camavinga: 5 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.66
+  • Maximum fatigue reached: 1.49 (J. Bellingham)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - E. Camavinga (9 high-fatigue minutes)
+    - J. Bellingham (15 high-fatigue minutes)
+    - Joselu (2 high-fatigue minutes)
+    - Lucas Vázquez (4 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

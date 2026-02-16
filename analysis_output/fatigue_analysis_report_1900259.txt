@@ -1,0 +1,66 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1900259
+Match: Girona 0-3 Real Madrid
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1034
+Total error events detected: 50
+Fatigue-Error correlation: 0.631
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. A. Güler (RW): 10736m, Max Fatigue: 1.66
+2. L. Modrić (LDM): 10370m, Max Fatigue: 1.50
+3. Lucas Vázquez (RB): 10335m, Max Fatigue: 1.44
+4. Brahim Diaz (LW): 10113m, Max Fatigue: 1.40
+5. A. Rüdiger (LCB): 9034m, Max Fatigue: 1.34
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • A. Güler at minute 1: Fatigue 1.66
+  • A. Güler at minute 2: Fatigue 1.65
+  • A. Güler at minute 9: Fatigue 1.61
+  • A. Güler at minute 3: Fatigue 1.60
+  • A. Güler at minute 10: Fatigue 1.58
+  • A. Güler at minute 5: Fatigue 1.58
+  • A. Güler at minute 4: Fatigue 1.58
+  • A. Güler at minute 8: Fatigue 1.58
+  • A. Güler at minute 7: Fatigue 1.56
+  • A. Güler at minute 6: Fatigue 1.56
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • L. Modrić: 10 errors
+  • A. Güler: 8 errors
+  • Lucas Vázquez: 8 errors
+  • F. Valverde: 6 errors
+  • Brahim Diaz: 5 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.70
+  • Maximum fatigue reached: 1.66 (A. Güler)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - A. Güler (46 high-fatigue minutes)
+    - A. Rüdiger (1 high-fatigue minutes)
+    - Brahim Diaz (11 high-fatigue minutes)
+    - F. Mendy (7 high-fatigue minutes)
+    - F. Valverde (15 high-fatigue minutes)
+    - J. Bellingham (24 high-fatigue minutes)
+    - L. Modrić (14 high-fatigue minutes)
+    - Lucas Vázquez (17 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

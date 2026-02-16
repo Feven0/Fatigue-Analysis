@@ -1,0 +1,68 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1948187
+Match: Valencia CF 1-2 Real Madrid
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1047
+Total error events detected: 50
+Fatigue-Error correlation: 0.674
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. Lucas Vázquez (RB): 10798m, Max Fatigue: 1.51
+2. F. Valverde (RDM): 9882m, Max Fatigue: 1.69
+3. J. Bellingham (AM): 9253m, Max Fatigue: 1.72
+4. A. Tchouaméni (RCB): 9152m, Max Fatigue: 1.42
+5. K. Mbappé (CF): 8681m, Max Fatigue: 1.34
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • J. Bellingham at minute 1: Fatigue 1.72
+  • F. Valverde at minute 0: Fatigue 1.69
+  • J. Bellingham at minute 4: Fatigue 1.64
+  • Dani Ceballos at minute 4: Fatigue 1.64
+  • Dani Ceballos at minute 3: Fatigue 1.63
+  • Dani Ceballos at minute 2: Fatigue 1.63
+  • Dani Ceballos at minute 0: Fatigue 1.62
+  • J. Bellingham at minute 2: Fatigue 1.61
+  • F. Valverde at minute 4: Fatigue 1.61
+  • Dani Ceballos at minute 5: Fatigue 1.59
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • Dani Ceballos: 9 errors
+  • F. Valverde: 7 errors
+  • Rodrygo: 6 errors
+  • F. Mendy: 5 errors
+  • Vinícius Júnior: 5 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.69
+  • Maximum fatigue reached: 1.72 (J. Bellingham)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - A. Rüdiger (4 high-fatigue minutes)
+    - A. Tchouaméni (5 high-fatigue minutes)
+    - Dani Ceballos (29 high-fatigue minutes)
+    - F. Mendy (8 high-fatigue minutes)
+    - F. Valverde (17 high-fatigue minutes)
+    - J. Bellingham (19 high-fatigue minutes)
+    - K. Mbappé (4 high-fatigue minutes)
+    - Lucas Vázquez (18 high-fatigue minutes)
+    - Rodrygo (16 high-fatigue minutes)
+    - Vinícius Júnior (17 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

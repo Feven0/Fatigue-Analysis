@@ -1,0 +1,64 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 2017683
+Match: Sevilla FC 0-2 Real Madrid
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1025
+Total error events detected: 50
+Fatigue-Error correlation: 0.649
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. J. Bellingham (LW): 9281m, Max Fatigue: 1.72
+2. L. Modrić (LM): 8685m, Max Fatigue: 1.43
+3. A. Tchouaméni (RM): 8583m, Max Fatigue: 1.26
+4. F. Valverde (RB): 8382m, Max Fatigue: 1.26
+5. Fran García (LB): 7864m, Max Fatigue: 1.37
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • J. Bellingham at minute 0: Fatigue 1.72
+  • J. Bellingham at minute 1: Fatigue 1.64
+  • J. Bellingham at minute 2: Fatigue 1.56
+  • J. Bellingham at minute 3: Fatigue 1.55
+  • J. Bellingham at minute 4: Fatigue 1.53
+  • J. Bellingham at minute 5: Fatigue 1.51
+  • Endrick at minute 1: Fatigue 1.49
+  • J. Bellingham at minute 7: Fatigue 1.48
+  • J. Bellingham at minute 6: Fatigue 1.47
+  • J. Bellingham at minute 8: Fatigue 1.44
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • A. Tchouaméni: 11 errors
+  • Endrick: 7 errors
+  • L. Modrić: 7 errors
+  • J. Bellingham: 6 errors
+  • A. Güler: 5 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.59
+  • Maximum fatigue reached: 1.72 (J. Bellingham)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - A. Güler (1 high-fatigue minutes)
+    - Endrick (2 high-fatigue minutes)
+    - Fran García (1 high-fatigue minutes)
+    - J. Bellingham (12 high-fatigue minutes)
+    - Jesús Vallejo (1 high-fatigue minutes)
+    - L. Modrić (3 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

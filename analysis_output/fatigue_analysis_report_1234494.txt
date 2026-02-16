@@ -1,0 +1,64 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1234494
+Match: Real Madrid 3-0 SC Braga
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1058
+Total error events detected: 50
+Fatigue-Error correlation: 0.617
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. T. Kroos (LM): 11037m, Max Fatigue: 1.48
+2. E. Camavinga (RM): 10557m, Max Fatigue: 1.43
+3. Vinícius Júnior (CF): 9362m, Max Fatigue: 1.27
+4. A. Rüdiger (RCB): 8837m, Max Fatigue: 1.12
+5. Rodrygo (CF): 8775m, Max Fatigue: 1.39
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • T. Kroos at minute 3: Fatigue 1.48
+  • Brahim Diaz at minute 3: Fatigue 1.47
+  • Brahim Diaz at minute 2: Fatigue 1.45
+  • E. Camavinga at minute 3: Fatigue 1.43
+  • E. Camavinga at minute 2: Fatigue 1.42
+  • T. Kroos at minute 2: Fatigue 1.42
+  • E. Camavinga at minute 1: Fatigue 1.40
+  • Rodrygo at minute 3: Fatigue 1.39
+  • F. Valverde at minute 2: Fatigue 1.37
+  • Rodrygo at minute 1: Fatigue 1.36
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • F. Valverde: 11 errors
+  • Lucas Vázquez: 8 errors
+  • Brahim Diaz: 8 errors
+  • Rodrygo: 7 errors
+  • T. Kroos: 6 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.60
+  • Maximum fatigue reached: 1.48 (T. Kroos)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - Brahim Diaz (3 high-fatigue minutes)
+    - E. Camavinga (3 high-fatigue minutes)
+    - F. Valverde (2 high-fatigue minutes)
+    - Lucas Vázquez (1 high-fatigue minutes)
+    - Rodrygo (3 high-fatigue minutes)
+    - T. Kroos (3 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

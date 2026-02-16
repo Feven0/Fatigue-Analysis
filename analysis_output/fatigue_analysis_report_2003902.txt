@@ -1,0 +1,62 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 2003902
+Match: Real Madrid 3-1 Manchester City
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1025
+Total error events detected: 50
+Fatigue-Error correlation: 0.604
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. Rodrygo (RW): 9555m, Max Fatigue: 1.27
+2. A. Tchouaméni (RM): 9203m, Max Fatigue: 1.46
+3. J. Bellingham (LW): 9086m, Max Fatigue: 1.33
+4. Dani Ceballos (LM): 8799m, Max Fatigue: 1.33
+5. Vinícius Júnior (CF): 8739m, Max Fatigue: 1.39
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • A. Tchouaméni at minute 1: Fatigue 1.46
+  • Vinícius Júnior at minute 1: Fatigue 1.39
+  • A. Tchouaméni at minute 2: Fatigue 1.36
+  • A. Tchouaméni at minute 0: Fatigue 1.35
+  • J. Bellingham at minute 1: Fatigue 1.33
+  • Dani Ceballos at minute 1: Fatigue 1.33
+  • Vinícius Júnior at minute 2: Fatigue 1.32
+  • Dani Ceballos at minute 2: Fatigue 1.31
+  • Rodrygo at minute 2: Fatigue 1.27
+  • Dani Ceballos at minute 3: Fatigue 1.27
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • Dani Ceballos: 9 errors
+  • J. Bellingham: 8 errors
+  • K. Mbappé: 8 errors
+  • Vinícius Júnior: 6 errors
+  • F. Mendy: 5 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.56
+  • Maximum fatigue reached: 1.46 (A. Tchouaméni)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - A. Tchouaméni (3 high-fatigue minutes)
+    - Dani Ceballos (2 high-fatigue minutes)
+    - J. Bellingham (1 high-fatigue minutes)
+    - Vinícius Júnior (2 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

@@ -1,0 +1,65 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1677766
+Match: UD Las Palmas 1-1 Real Madrid
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1080
+Total error events detected: 50
+Fatigue-Error correlation: 0.609
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. A. Tchouaméni (LDM): 10638m, Max Fatigue: 1.32
+2. F. Valverde (RDM): 10076m, Max Fatigue: 1.40
+3. Lucas Vázquez (RB): 9163m, Max Fatigue: 1.62
+4. Éder Militão (RCB): 9088m, Max Fatigue: 1.28
+5. A. Rüdiger (LCB): 9059m, Max Fatigue: 1.22
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • Lucas Vázquez at minute 0: Fatigue 1.62
+  • Brahim Diaz at minute 3: Fatigue 1.45
+  • Lucas Vázquez at minute 2: Fatigue 1.42
+  • Brahim Diaz at minute 0: Fatigue 1.41
+  • Lucas Vázquez at minute 3: Fatigue 1.41
+  • Lucas Vázquez at minute 1: Fatigue 1.41
+  • F. Valverde at minute 3: Fatigue 1.40
+  • Lucas Vázquez at minute 9: Fatigue 1.38
+  • Vinícius Júnior at minute 3: Fatigue 1.37
+  • Vinícius Júnior at minute 0: Fatigue 1.36
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • Brahim Diaz: 11 errors
+  • Lucas Vázquez: 7 errors
+  • L. Modrić: 7 errors
+  • Vinícius Júnior: 7 errors
+  • F. Mendy: 6 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.66
+  • Maximum fatigue reached: 1.62 (Lucas Vázquez)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - A. Tchouaméni (1 high-fatigue minutes)
+    - Brahim Diaz (4 high-fatigue minutes)
+    - F. Mendy (1 high-fatigue minutes)
+    - F. Valverde (3 high-fatigue minutes)
+    - L. Modrić (2 high-fatigue minutes)
+    - Lucas Vázquez (6 high-fatigue minutes)
+    - Vinícius Júnior (3 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

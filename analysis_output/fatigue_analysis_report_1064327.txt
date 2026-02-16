@@ -1,0 +1,64 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1064327
+Match: Real Madrid 2-1 Getafe CF
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1149
+Total error events detected: 50
+Fatigue-Error correlation: 0.611
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. J. Bellingham (AM): 11075m, Max Fatigue: 1.51
+2. Joselu (CF): 10334m, Max Fatigue: 1.57
+3. Rodrygo (CF): 10202m, Max Fatigue: 1.27
+4. D. Alaba (LCB): 10042m, Max Fatigue: 1.08
+5. A. Rüdiger (RCB): 9668m, Max Fatigue: 1.24
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • Joselu at minute 0: Fatigue 1.57
+  • J. Bellingham at minute 3: Fatigue 1.51
+  • J. Bellingham at minute 4: Fatigue 1.49
+  • J. Bellingham at minute 0: Fatigue 1.49
+  • J. Bellingham at minute 2: Fatigue 1.49
+  • L. Modrić at minute 0: Fatigue 1.48
+  • J. Bellingham at minute 6: Fatigue 1.43
+  • J. Bellingham at minute 7: Fatigue 1.43
+  • J. Bellingham at minute 5: Fatigue 1.43
+  • J. Bellingham at minute 1: Fatigue 1.41
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • E. Camavinga: 9 errors
+  • Fran García: 8 errors
+  • Joselu: 6 errors
+  • L. Modrić: 6 errors
+  • A. Tchouaméni: 5 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.63
+  • Maximum fatigue reached: 1.57 (Joselu)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - A. Tchouaméni (1 high-fatigue minutes)
+    - Dani Carvajal (2 high-fatigue minutes)
+    - Fran García (7 high-fatigue minutes)
+    - J. Bellingham (10 high-fatigue minutes)
+    - Joselu (4 high-fatigue minutes)
+    - L. Modrić (1 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

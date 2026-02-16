@@ -1,0 +1,67 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1242274
+Match: Real Madrid 5-1 Valencia CF
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1080
+Total error events detected: 50
+Fatigue-Error correlation: 0.631
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. E. Camavinga (RM): 10615m, Max Fatigue: 1.52
+2. T. Kroos (LM): 10346m, Max Fatigue: 1.96
+3. Rodrygo (CF): 9899m, Max Fatigue: 1.21
+4. D. Alaba (LCB): 9385m, Max Fatigue: 1.75
+5. Nacho Fernández (RCB): 8922m, Max Fatigue: 1.51
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • T. Kroos at minute 0: Fatigue 1.96
+  • F. Mendy at minute 0: Fatigue 1.75
+  • D. Alaba at minute 0: Fatigue 1.75
+  • Brahim Diaz at minute 0: Fatigue 1.73
+  • Brahim Diaz at minute 1: Fatigue 1.58
+  • T. Kroos at minute 1: Fatigue 1.55
+  • Vinícius Júnior at minute 0: Fatigue 1.54
+  • E. Camavinga at minute 0: Fatigue 1.52
+  • Nacho Fernández at minute 0: Fatigue 1.51
+  • F. Mendy at minute 1: Fatigue 1.48
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • Brahim Diaz: 11 errors
+  • Rodrygo: 7 errors
+  • T. Kroos: 7 errors
+  • Dani Carvajal: 6 errors
+  • F. Mendy: 5 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.61
+  • Maximum fatigue reached: 1.96 (T. Kroos)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - Brahim Diaz (2 high-fatigue minutes)
+    - D. Alaba (2 high-fatigue minutes)
+    - Dani Carvajal (1 high-fatigue minutes)
+    - E. Camavinga (2 high-fatigue minutes)
+    - F. Mendy (2 high-fatigue minutes)
+    - F. Valverde (2 high-fatigue minutes)
+    - Nacho Fernández (2 high-fatigue minutes)
+    - T. Kroos (2 high-fatigue minutes)
+    - Vinícius Júnior (2 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

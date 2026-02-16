@@ -1,0 +1,63 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1992355
+Match: Stade Brestois 0-3 Real Madrid
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1078
+Total error events detected: 50
+Fatigue-Error correlation: 0.648
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. F. Valverde (DM): 11341m, Max Fatigue: 1.34
+2. Rodrygo (LW): 10063m, Max Fatigue: 1.10
+3. F. Mendy (LB): 9657m, Max Fatigue: 1.28
+4. L. Modrić (RM): 9650m, Max Fatigue: 1.45
+5. Lucas Vázquez (RB): 8979m, Max Fatigue: 1.40
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • L. Modrić at minute 1: Fatigue 1.45
+  • L. Modrić at minute 0: Fatigue 1.44
+  • Brahim Diaz at minute 0: Fatigue 1.43
+  • Lucas Vázquez at minute 0: Fatigue 1.40
+  • K. Mbappé at minute 0: Fatigue 1.40
+  • L. Modrić at minute 4: Fatigue 1.35
+  • F. Valverde at minute 1: Fatigue 1.34
+  • F. Valverde at minute 0: Fatigue 1.34
+  • F. Valverde at minute 4: Fatigue 1.32
+  • F. Valverde at minute 25: Fatigue 1.28
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • Brahim Diaz: 9 errors
+  • Lucas Vázquez: 8 errors
+  • J. Bellingham: 8 errors
+  • F. Mendy: 7 errors
+  • L. Modrić: 6 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.62
+  • Maximum fatigue reached: 1.45 (L. Modrić)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - Brahim Diaz (1 high-fatigue minutes)
+    - F. Valverde (3 high-fatigue minutes)
+    - K. Mbappé (1 high-fatigue minutes)
+    - L. Modrić (3 high-fatigue minutes)
+    - Lucas Vázquez (1 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

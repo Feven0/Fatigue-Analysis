@@ -1,0 +1,59 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1443283
+Match: CA Osasuna 2-4 Real Madrid
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1068
+Total error events detected: 50
+Fatigue-Error correlation: 0.568
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. F. Valverde (RW): 9559m, Max Fatigue: 1.34
+2. Rodrygo (CF): 9481m, Max Fatigue: 1.33
+3. Dani Carvajal (RB): 9246m, Max Fatigue: 1.07
+4. A. Tchouaméni (RCB): 8634m, Max Fatigue: 1.07
+5. T. Kroos (LM): 8176m, Max Fatigue: 1.32
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • F. Valverde at minute 2: Fatigue 1.34
+  • Rodrygo at minute 2: Fatigue 1.33
+  • T. Kroos at minute 2: Fatigue 1.32
+  • Rodrygo at minute 1: Fatigue 1.29
+  • F. Valverde at minute 1: Fatigue 1.28
+  • T. Kroos at minute 1: Fatigue 1.26
+  • E. Camavinga at minute 2: Fatigue 1.23
+  • Brahim Diaz at minute 2: Fatigue 1.23
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • T. Kroos: 11 errors
+  • F. Valverde: 8 errors
+  • Rodrygo: 8 errors
+  • Brahim Diaz: 5 errors
+  • Dani Carvajal: 5 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.60
+  • Maximum fatigue reached: 1.34 (F. Valverde)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - F. Valverde (1 high-fatigue minutes)
+    - Rodrygo (1 high-fatigue minutes)
+    - T. Kroos (1 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

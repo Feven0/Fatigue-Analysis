@@ -1,0 +1,62 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 1385604
+Match: Real Madrid 1-1 Atlético Madrid
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1079
+Total error events detected: 50
+Fatigue-Error correlation: 0.607
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. T. Kroos (LM): 10831m, Max Fatigue: 1.28
+2. E. Camavinga (DM): 10761m, Max Fatigue: 1.37
+3. Lucas Vázquez (RB): 10584m, Max Fatigue: 1.35
+4. F. Valverde (RM): 9888m, Max Fatigue: 1.27
+5. F. Mendy (LB): 9494m, Max Fatigue: 1.29
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • J. Bellingham at minute 0: Fatigue 1.55
+  • J. Bellingham at minute 1: Fatigue 1.50
+  • Brahim Diaz at minute 1: Fatigue 1.45
+  • J. Bellingham at minute 6: Fatigue 1.41
+  • J. Bellingham at minute 2: Fatigue 1.41
+  • J. Bellingham at minute 5: Fatigue 1.40
+  • J. Bellingham at minute 3: Fatigue 1.38
+  • J. Bellingham at minute 4: Fatigue 1.37
+  • E. Camavinga at minute 4: Fatigue 1.37
+  • Lucas Vázquez at minute 0: Fatigue 1.35
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • F. Valverde: 8 errors
+  • Lucas Vázquez: 8 errors
+  • J. Bellingham: 8 errors
+  • T. Kroos: 7 errors
+  • E. Camavinga: 6 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.65
+  • Maximum fatigue reached: 1.55 (J. Bellingham)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - Brahim Diaz (1 high-fatigue minutes)
+    - E. Camavinga (4 high-fatigue minutes)
+    - J. Bellingham (13 high-fatigue minutes)
+    - Lucas Vázquez (3 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

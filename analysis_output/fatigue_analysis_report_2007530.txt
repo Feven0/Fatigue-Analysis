@@ -1,0 +1,66 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 2007530
+Match: Villarreal CF 1-2 Real Madrid
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1067
+Total error events detected: 50
+Fatigue-Error correlation: 0.586
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. E. Camavinga (LDM): 11218m, Max Fatigue: 1.82
+2. Lucas Vázquez (RB): 11217m, Max Fatigue: 1.35
+3. Fran García (LB): 10734m, Max Fatigue: 1.44
+4. J. Bellingham (AM): 10538m, Max Fatigue: 1.71
+5. F. Valverde (RDM): 9278m, Max Fatigue: 1.87
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • F. Valverde at minute 0: Fatigue 1.87
+  • E. Camavinga at minute 0: Fatigue 1.82
+  • J. Bellingham at minute 0: Fatigue 1.71
+  • F. Valverde at minute 1: Fatigue 1.55
+  • Raúl Asencio at minute 0: Fatigue 1.50
+  • Fran García at minute 0: Fatigue 1.44
+  • E. Camavinga at minute 1: Fatigue 1.44
+  • A. Tchouaméni at minute 0: Fatigue 1.40
+  • J. Bellingham at minute 1: Fatigue 1.37
+  • E. Camavinga at minute 5: Fatigue 1.37
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • Rodrygo: 12 errors
+  • F. Valverde: 10 errors
+  • Lucas Vázquez: 8 errors
+  • J. Bellingham: 7 errors
+  • Fran García: 5 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.66
+  • Maximum fatigue reached: 1.87 (F. Valverde)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Monitor these players for early substitution:
+    - A. Tchouaméni (1 high-fatigue minutes)
+    - E. Camavinga (5 high-fatigue minutes)
+    - F. Valverde (2 high-fatigue minutes)
+    - Fran García (1 high-fatigue minutes)
+    - J. Bellingham (2 high-fatigue minutes)
+    - Lucas Vázquez (1 high-fatigue minutes)
+    - Raúl Asencio (1 high-fatigue minutes)
+    - Rodrygo (1 high-fatigue minutes)
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

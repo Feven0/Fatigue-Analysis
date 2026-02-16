@@ -1,0 +1,50 @@
+================================================================================
+REAL MADRID FATIGUE ERROR TRACKING ANALYSIS
+Match ID: 2016604
+Match: FC Barcelona 4-3 Real Madrid
+================================================================================
+
+ SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Real Madrid player-minutes analyzed: 1082
+Total error events detected: 50
+Fatigue-Error correlation: 0.603
+
+ TOP 5 PLAYERS BY TOTAL DISTANCE
+--------------------------------------------------------------------------------
+1. J. Bellingham (AM): 9164m, Max Fatigue: 1.25
+2. Fran García (LB): 9113m, Max Fatigue: 0.94
+3. F. Valverde (LDM): 9098m, Max Fatigue: 0.92
+4. Lucas Vázquez (RB): 8320m, Max Fatigue: 0.99
+5. K. Mbappé (CF): 7841m, Max Fatigue: 1.00
+
+ HIGH FATIGUE PERIODS (Fatigue Index > 1.2)
+--------------------------------------------------------------------------------
+  • J. Bellingham at minute 2: Fatigue 1.25
+  • J. Bellingham at minute 1: Fatigue 1.23
+  • A. Güler at minute 2: Fatigue 1.20
+
+  ERROR EVENT BREAKDOWN
+--------------------------------------------------------------------------------
+  • High Fatigue Event: 50
+
+ PLAYERS WITH MOST ERRORS
+--------------------------------------------------------------------------------
+  • A. Güler: 9 errors
+  • Dani Ceballos: 8 errors
+  • Vinícius Júnior: 8 errors
+  • Lucas Vázquez: 7 errors
+  • J. Bellingham: 6 errors
+
+ KEY INSIGHTS
+--------------------------------------------------------------------------------
+  • Average team fatigue index: 0.54
+  • Maximum fatigue reached: 1.25 (J. Bellingham)
+  •  POSITIVE correlation found: Higher fatigue → More errors
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+  • Consider tactical adjustments during high-fatigue periods (minutes 60-75)
+  • Implement rotation policy for high-intensity positions
+
+================================================================================

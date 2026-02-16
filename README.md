@@ -1,13 +1,12 @@
 # Real Madrid Fatigue Analysis & Error Tracking
 
 ## Table of Contents
-1. [What This Project Does](#what-this-project-does)
-2. [Files Overview](#files-overview)
-3. [How It Works](#how-it-works)
-4. [The Data](#the-data)
-5. [Running the Project](#running-the-project)
-6. [Understanding the Results](#understanding-the-results)
-7. [Answering Your Concern](#answering-your-concern)
+ [What This Project Does](#what-this-project-does)
+
+ [How It Works](#how-it-works)
+[The Data](#the-data)
+ [Running the Project](#running-the-project)
+[Understanding the Results](#understanding-the-results)
 
 ---
 
@@ -32,85 +31,10 @@ This project:
 
 ---
 
-## Files Overview
 
-### KEEP THESE (Main Project Files)
-
-#### 1. **`complete_fatigue_analysis.py`** MOST IMPORTANT
-- **What it does:** The ONE script that does EVERYTHING
-- **Size:** 27 KB
-- **Purpose:** 
- - Loads tracking data (7.6M GPS points)
- - Calculates velocities, accelerations, distances
- - Computes fatigue index per player per minute
- - Finds error events
- - Creates 4 graphs
- - Generates analysis report
-- **Run:** `python complete_fatigue_analysis.py`
-
-#### 2. **`dashboard.py`** INTERACTIVE VIEWER
-- **What it does:** Creates a web interface to explore the data
-- **Size:** 12 KB
-- **Purpose:** Interactive exploration with charts and filters
-- **Run:** `streamlit run dashboard.py`
-
-#### 3. **`analysis_output/`** RESULTS FOLDER
-Contains all the output:
-- `fatigue_timeline_1021404.png` - Graph showing fatigue over time
-- `player_comparison_1021404.png` - Heatmap comparing all players
-- `fatigue_error_correlation_1021404.png` - Statistical correlation plot
-- `position_analysis_1021404.png` - Analysis by position
-- `fatigue_analysis_report_1021404.txt` - Text report with insights
-- `minute_metrics_1021404.parquet` - Processed data (1,079 rows)
-- `error_events_1021404.parquet` - Error events (50 rows)
-- `merged_analysis_1021404.parquet` - Combined dataset
-- `results.html` - Beautiful web page showing all results
-
-#### 4. **`README.md`** THIS FILE
-- The guide you're reading now
 
 ---
 
-### OPTIONAL (Can Delete If You Want)
-
-These were created during development but aren't needed to run the project:
-
-- `extract_minute_metrics.py` - Standalone version (functionality now in complete_fatigue_analysis.py)
-- `extract_error_events.py` - Standalone version (functionality now in complete_fatigue_analysis.py)
-- `PROJECT_PROPOSAL_FATIGUE_TRACKING.md` - Initial proposal document
-- `IMPLEMENTATION_SUMMARY.md` - Development notes
-- `QUICK_START_GUIDE.md` - Another guide (redundant with this one)
-- `README_FATIGUE_SYSTEM.md` - Another readme (redundant)
-- `PROJECT_COMPLETE.md` - Completion notes
-- `processed/` folder - Old output (superseded by analysis_output/)
-
----
-
-### UNRELATED (Can Delete)
-
-These are from other projects/experiments:
-
-- `analyze_disruption.py` - Different project
-- `check_schemas.py` - Data exploration script
-- `check_schemas_v2.py` - Data exploration script
-- `columns_dump.txt` - Data exploration output
-- `dynamic_columns.txt` - Data exploration output
-
----
-
-### DATA FOLDERS (Don't Delete!)
-
-These contain the raw Real Madrid data:
-
-- `tracking/` - Raw GPS data (103 match files, JSON format)
-- `dynamic/` - Event data (103 match files, Parquet format)
-- `meta/` - Match metadata (103 match files, JSON format)
-- `physical/` - Match-level physical stats (103 files, Parquet format)
-- `freeze/` - Freeze frame data (103 files)
-- `matches.parquet` - Match summary data
-- `tracking_parquet/` - Some tracking data in parquet format
-
----
 
 ## How It Works
 
@@ -118,11 +42,7 @@ These contain the raw Real Madrid data:
 
 #### Step 1: Load Raw Tracking Data
 ```python
-# File: tracking/1021404.json
-# Contains: 7.6 million GPS positions
-# Format: [{"frame": 1, "player_data": [{"player_id": 123, "x": 50.2, "y": 34.1}, ...]}]
-# Frequency: 10 Hz (10 positions per second per player)
-```
+
 
 #### Step 2: Calculate Frame-Level Metrics
 For each frame (every 0.1 seconds):
@@ -394,12 +314,8 @@ Contains:
 
 ---
 
-## Answering Your Concern
 
-### Your Question:
-> "The physical files unfortunately do not include a minute breakdown. They only have values on a match basis. You could however do this from the raw tracking data, but that would be much more work."
 
-### Answer: YES, WE DID THE HARD WORK! 
 
 **What we did:**
 1. **Ignored the physical files** (they only have match totals)
@@ -481,67 +397,13 @@ fatigue_index = cumulative_distance / expected_distance
 
 ---
 
-## Cleanup Recommendations
 
-### Keep These:
-```
-complete_fatigue_analysis.py Main script
-dashboard.py Interactive viewer
-analysis_output/ All results
-COMPLETE_GUIDE.md This guide
-tracking/ Raw data
-dynamic/ Raw data
-meta/ Raw data
-physical/ Raw data
-matches.parquet Raw data
-```
 
-### Can Delete:
-```
-extract_minute_metrics.py
-extract_error_events.py
-PROJECT_PROPOSAL_FATIGUE_TRACKING.md
-IMPLEMENTATION_SUMMARY.md
-QUICK_START_GUIDE.md
-README_FATIGUE_SYSTEM.md
-PROJECT_COMPLETE.md
-processed/
-analyze_disruption.py
-check_schemas.py
-check_schemas_v2.py
-columns_dump.txt
-dynamic_columns.txt
-freeze/ (unless you need it for other projects)
-tracking_parquet/ (redundant with tracking/)
-```
 
----
 
-## Summary
-
-**What you have:**
-- One main script that does everything
-- Interactive dashboard for exploration
-- 4 professional graphs
-- Detailed analysis report
-- Processed data files
-
-**What it does:**
-- Processes raw GPS data (the hard way, as you mentioned)
-- Creates minute-by-minute fatigue metrics
-- Identifies error events
-- Shows correlation between fatigue and errors
-- Provides coaching recommendations
 
 **How to use it:**
 1. Run: `python complete_fatigue_analysis.py`
 2. View graphs in `analysis_output/`
 3. Read report in `fatigue_analysis_report_1021404.txt`
 4. Explore interactively: `streamlit run dashboard.py`
-
-**The answer to your concern:**
- YES! We processed the raw tracking data to get minute-level metrics, exactly as you suggested was needed!
-
----
-
-Need help with anything specific? Let me know! 

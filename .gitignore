@@ -1,7 +1,7 @@
 tracking/
 dynamic/
 meta/
-analysis_output/
+# analysis_output/ is now included to support the dashboard
 *.json
 __pycache__/
 .ipynb_checkpoints/
